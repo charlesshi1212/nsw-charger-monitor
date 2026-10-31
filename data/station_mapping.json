@@ -1,0 +1,10 @@
+{
+  "source_database_sha256": "ce30e060132ca70b8de6d6fe978d6cf12580568fa91a88adee333c34a66afba4",
+  "dc_chargers": 432,
+  "physical_locations": 430,
+  "connectors": 1656,
+  "station_id_rule": "DC-<Assignment 1 charger_id>",
+  "urban_rule": "Sydney SA4 regions, Newcastle and Lake Macquarie, Illawarra, Central Coast",
+  "capacity_assumption": "number_of_plugs models independently occupied connectors; maximum listed kW per connector",
+  "time_basis": "AEMO market time, fixed UTC+10; not daylight-saving civil time"
+}

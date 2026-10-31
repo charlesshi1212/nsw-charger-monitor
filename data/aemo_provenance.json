@@ -1,0 +1,13 @@
+{
+  "url": "https://www.aemo.com.au/aemo/data/nem/priceanddemand/PRICE_AND_DEMAND_202609_NSW1.csv",
+  "downloaded_date": "2026-10-26",
+  "sha256": "85af3e1f68823c3eef87fcc98e5fa605c609b568ec64d6ef36b96722f8db8cd0",
+  "size_bytes": 396276,
+  "rows": 8640,
+  "time_basis": "AEMO market time (fixed UTC+10)",
+  "simulation_start": "2026-09-01",
+  "simulation_days": 1,
+  "generator_seed": 5339,
+  "meter_interval_minutes": 5,
+  "generator_source": "Instructor-provided generate_dataset.py, unmodified"
+}

@@ -1,0 +1,19 @@
+{
+  "dataset_id": "0e41f9ef8d0623db",
+  "events": 46084,
+  "types": {
+    "price_update": 6048,
+    "session_start": 5288,
+    "meter": 29460,
+    "session_end": 5288
+  },
+  "suppressed_unchanged_prices": 4320,
+  "demo_stations": [
+    "DC-124",
+    "DC-899",
+    "DC-3"
+  ],
+  "demo_events": 412,
+  "first_event": "2026-09-01T00:00:00+10:00",
+  "last_event": "2026-09-02T01:42:38+10:00"
+}

@@ -1,0 +1,469 @@
+station_id,name,lat,lon,site_type,connectors,max_kw,charger_id,location_id,address,operator,plug_types,sa4_name
+DC-2,BP DC charger 2,-33.81100405,150.8495966,urban,4,150.0,2,1071,"01 Wallgrove Road, Sydney, 2766",BP,CCS (Type 2),Sydney - Blacktown
+DC-3,NRMA DC charger 3,-30.5118739,151.669395,regional,4,50.0,3,1797,"1 - 7 Ross St, Wilcannia NSW 2836, Australia",NRMA,"CCS (Type 2), CHAdeMO",New England and North West
+DC-6,Tesla DC charger 6,-33.88350355,151.1944334,urban,16,130.0,6,802,"1 Bay St, Sydney, 2037",Tesla,CCS (Type 2),Sydney - City and Inner South
+DC-7,Evie DC charger 7,-28.27690295,153.5770781,regional,4,75.0,7,1926,"1 Bells Blvd, Kingscliff, 2487",Evie,Not recorded,Richmond - Tweed
+DC-12,Tesla DC charger 12,-33.87650055,151.178,urban,4,250.0,12,859,"1 Dalgal Way, Sydney, 2037",Tesla,Not recorded,Sydney - City and Inner South
+DC-17,Evie DC charger 17,-33.81707912,151.1889369,urban,6,150.0,17,1046,"1 Frederick St, Sydney, 2064",Evie,Not recorded,Sydney - North Sydney and Hornsby
+DC-20,Chargefox DC charger 20,-34.22847652,150.6841562,urban,2,160.0,20,384,"1 Greenbridge Dr, Wilton, 2571",Chargefox,Not recorded,Sydney - Outer South West
+DC-24,Evie DC charger 24,-33.948829,150.90027,urban,4,50.0,24,476,"1 Ingham Dr, Casula NSW 2170",Evie,"CCS (Type 2), CHAdeMO",Sydney - South West
+DC-28,NRMA DC charger 28,-35.442745,149.7913305,regional,4,50.0,28,134,"1 Little Walker St, Casino, NSW 2470, Australia",NRMA,Not recorded,Capital Region
+DC-36,JOLT DC charger 36,-33.67613618,151.3039429,urban,2,25.0,36,1294,"1 Park St, Sydney, 2103",JOLT,"CCS (Type 2), CHAdeMO",Sydney - Northern Beaches
+DC-37,Evie DC charger 37,-35.70737242,150.1761672,regional,4,75.0,37,114,"1 Perry St, Batemans Bay, 2536",Evie,"CCS (Type 2), CHAdeMO",Capital Region
+DC-38,Exploren DC charger 38,-33.8215586,151.1964124,urban,2,50.0,38,1033,"1 Plunkett St, Sydney, 2065",Exploren,Not recorded,Sydney - North Sydney and Hornsby
+DC-48,Tesla DC charger 48,-28.17378983,153.5445165,regional,6,250.0,48,1935,"1 Wharf St, Tweed Heads, 2485",Tesla,Not recorded,Richmond - Tweed
+DC-50,Evie DC charger 50,-33.9624686,151.1324696,urban,4,150.0,50,446,"1/9 Railway Parade, Kogarah NSW 2217",Evie,Not recorded,Sydney - Inner South West
+DC-51,Evie DC charger 51,-34.03094307,150.8490285,urban,4,75.0,51,416,"10 Brookfield Rd, Minto NSW 2566",Evie,Not recorded,Sydney - Outer South West
+DC-54,Evie DC charger 54,-33.41417222,149.5833564,regional,4,150.0,54,1357,"10 Elizabeth St, Bathurst, 2795",Evie,Not recorded,Central West
+DC-60,Tesla DC charger 60,-31.43610015,152.8235826,regional,12,130.0,60,1734,"10 Winery Dr, Port Macquarie, 2444",Tesla,CCS (Type 2),Mid North Coast
+DC-67,Ampol DC charger 67,-33.77436041,150.9448809,urban,2,150.0,67,1146,"105 Station Rd, Sydney, 2147",Ampol,Not recorded,Sydney - Blacktown
+DC-68,Evie DC charger 68,-33.8273504,151.2303373,urban,4,75.0,68,1012,"106 Parraween St, Sydney, 2090",Evie,Not recorded,Sydney - North Sydney and Hornsby
+DC-69,Chargefox DC charger 69,-31.46394199,152.8219499,regional,4,180.0,69,1728,"1067 Oxley Hwy, Thrumster, 2444",Chargefox,"CCS (Type 2), CHAdeMO",Mid North Coast
+DC-70,JOLT DC charger 70,-33.73111016,151.301011,urban,2,25.0,70,1216,"1068 Pittwater Rd, Sydney, 2097",JOLT,Not recorded,Sydney - Northern Beaches
+DC-73,JOLT DC charger 73,-33.75051656,151.0650831,urban,2,25.0,73,1190,"109 Beecroft Rd, Sydney, 2119",JOLT,Not recorded,Sydney - Ryde
+DC-77,NRMA DC charger 77,-29.960127,146.8578887,regional,4,50.0,77,1828,"10W Apsley St, Walcha NSW 2354, Australia",NRMA,"CCS (Type 2), CHAdeMO",Far West and Orana
+DC-80,NRMA DC charger 80,-28.63612817,153.5534605,regional,4,75.0,80,1905,"11 Ewingsdale Rd, Ewingsdale, 2481",NRMA,"CCS (Type 2), CHAdeMO",Richmond - Tweed
+DC-84,JOLT DC charger 84,-33.92522427,150.9265836,urban,2,25.0,84,528,"11 Scott St, Sydney, 2170",JOLT,Not recorded,Sydney - South West
+DC-87,JOLT DC charger 87,-33.90717322,151.2239409,urban,2,25.0,87,619,"110 Anzac Pde, Sydney, 2033",JOLT,"CCS (Type 2), CHAdeMO",Sydney - Eastern Suburbs
+DC-88,JOLT DC charger 88,-33.59707712,151.320022,urban,2,25.0,88,1315,"1106 Barrenjoey Rd, Sydney, 2108",JOLT,"CCS (Type 2), CHAdeMO",Sydney - Northern Beaches
+DC-92,JOLT DC charger 92,-33.70973178,151.1045866,urban,2,25.0,92,1256,"11-37 Alexandria Pde, Sydney, 2077",JOLT,Not recorded,Sydney - North Sydney and Hornsby
+DC-95,NRMA DC charger 95,-31.9598511,141.4601038,regional,2,50.0,95,1704,"116 Liverpool St, Scone, NSW 2337, Australia",NRMA,"CCS (Type 2), CHAdeMO",Far West and Orana
+DC-99,Chargefox DC charger 99,-33.84986891,150.8978248,urban,2,150.0,99,976,"1183-1187 The Horsley Dr, Sydney, 2164",Chargefox,CCS (Type 2),Sydney - South West
+DC-100,Engie DC charger 100,-33.8505352,150.8988605,urban,2,150.0,100,974,"1183-1187 The Horsley Dr, Wetherill Park NSW 2164",Engie,CCS (Type 2),Sydney - South West
+DC-103,Evie DC charger 103,-32.89647352,151.5977107,urban,8,350.0,103,1512,"119 Stenhouse Drive, Cameron Park, 2285",Evie,"CCS (Type 2), CHAdeMO",Newcastle and Lake Macquarie
+DC-107,Ampol DC charger 107,-34.28138543,150.640016,urban,9,150.0,107,382,"12 Hume Hwy, Pheasants Nest, 2574",Ampol,"CCS (Type 2), CHAdeMO",Illawarra
+DC-108,Ampol DC charger 108,-34.28222427,150.6366026,urban,9,150.0,108,381,"12 Hume Hwy, Pheasants Nest, 2574",Ampol,"CCS (Type 2), CHAdeMO",Sydney - Outer South West
+DC-110,Engie DC charger 110,-33.6971741,151.2956935,urban,2,150.0,110,1276,"12 Jacksons Rd, Warriewood NSW 2102",Engie,Not recorded,Sydney - Northern Beaches
+DC-111,Evie DC charger 111,-33.939429,151.1970375,urban,4,75.0,111,498,"12 Lord St, Botany NSW 2019",Evie,Not recorded,Sydney - City and Inner South
+DC-118,Exploren DC charger 118,-34.40192697,150.8906517,urban,2,60.0,118,361,"121 Princes Hwy, Wollongong, 2519",Exploren,CCS (Type 2),Illawarra
+DC-124,Chargefox DC charger 124,-34.30172777,146.0826426,regional,1,24.0,124,375,"126 Mackay Ave, Yoogali, 2680",Chargefox,CCS (Type 2),Riverina
+DC-125,Chargefox DC charger 125,-30.97681086,150.2501652,regional,4,47.0,125,1773,"127 Conadilly St, Gunnedah, 2380",Chargefox,Not recorded,New England and North West
+DC-127,Evie DC charger 127,-33.88518,151.148629,urban,4,75.0,127,781,"128 Flood Street, Leichhardt NSW 2040",Evie,"CCS (Type 2), CHAdeMO",Sydney - Inner West
+DC-128,Evie DC charger 128,-33.70276181,151.0964792,urban,4,50.0,128,1268,"1-3 Dural St, Hornsby NSW 2077",Evie,Not recorded,Sydney - North Sydney and Hornsby
+DC-134,Evie DC charger 134,-34.60721926,150.2251632,regional,8,350.0,134,284,"13125 Hume Hwy, Sutton Forest, 2577",Evie,"CCS (Type 2), CHAdeMO",Southern Highlands and Shoalhaven
+DC-136,Evie DC charger 136,-34.5504346,150.7877814,urban,2,50.0,136,305,"13-17 Princes Hwy, Albion Park Rail NSW 2527",Evie,Not recorded,Illawarra
+DC-137,NRMA DC charger 137,-29.68846451,152.933015,regional,2,50.0,137,1843,"132 Pound Street, Grafton, 2460",NRMA,"CCS (Type 2), CHAdeMO",Coffs Harbour - Grafton
+DC-138,JOLT DC charger 138,-33.88724929,151.0993353,urban,2,25.0,138,763,"133 Liverpool Rd, Sydney, 2134",JOLT,Not recorded,Sydney - Inner West
+DC-140,Ampol DC charger 140,-33.9020166,151.2000104,urban,2,150.0,140,657,"133 Wyndham St Cnr Mcevoy St, Alexandria, NSW, 2015",Ampol,Not recorded,Sydney - City and Inner South
+DC-141,NRMA DC charger 141,-34.50890395,144.8427858,regional,4,180.0,141,313,"134 Lachlan St, Hay, 2711",NRMA,"CCS (Type 2), CHAdeMO",Murray
+DC-142,NRMA DC charger 142,-34.50908013,144.8410701,regional,2,50.0,142,311,"134 Lachlan St, Hay, 2711",NRMA,"CCS (Type 2), CHAdeMO",Murray
+DC-144,BP DC charger 144,-30.29156861,153.1183714,regional,2,75.0,144,1816,"134-136 Grafton St, Coffs Harbour, 2450",BP,"CCS (Type 2), CHAdeMO",Coffs Harbour - Grafton
+DC-151,JOLT DC charger 151,-33.87204909,151.0954464,urban,2,25.0,151,892,"14 Everton Rd, Sydney, 2135",JOLT,Not recorded,Sydney - Inner West
+DC-154,Exploren DC charger 154,-33.94916821,151.2247958,urban,2,120.0,154,475,"140 Denison St, Sydney, 2036",Exploren,Not recorded,Sydney - City and Inner South
+DC-155,NRMA DC charger 155,-34.77559464,150.7010871,regional,2,50.0,155,253,"140 Queen St, Berry, 2535",NRMA,"CCS (Type 2), CHAdeMO",Southern Highlands and Shoalhaven
+DC-156,JOLT DC charger 156,-33.9492503,151.0812503,urban,2,25.0,156,474,"141 Morgan St, Sydney, 2209",JOLT,Not recorded,Sydney - Inner South West
+DC-157,Engie DC charger 157,-33.9354417,151.0685253,urban,2,120.0,157,503,"141 Roselands Ave, Roselands NSW 2196",Engie,CCS (Type 2),Sydney - Inner South West
+DC-167,JOLT DC charger 167,-33.91307612,151.2387948,urban,2,50.0,167,586,"149 Alison Rd, Sydney, 2031",JOLT,Not recorded,Sydney - Eastern Suburbs
+DC-171,Tesla DC charger 171,-31.4577518,152.8267908,regional,12,250.0,171,1730,"15 Chancellors Dr, Thrumster , 2444",Tesla,CCS (Type 2),Mid North Coast
+DC-175,JOLT DC charger 175,-33.70040345,150.9283123,urban,2,25.0,175,1273,"15 Merriville Rd, Sydney, 2155",JOLT,Not recorded,Sydney - Blacktown
+DC-176,JOLT DC charger 176,-33.70051756,150.9281081,urban,2,25.0,176,1272,"15 Merriville Rd, Sydney, 2155",JOLT,Not recorded,Sydney - Blacktown
+DC-178,Evie DC charger 178,-33.83274979,151.2064264,urban,4,75.0,178,1003,"15 Ridge St, Sydney, 2060",Evie,Not recorded,Sydney - North Sydney and Hornsby
+DC-180,NRMA DC charger 180,-31.4988197,145.8375768,regional,4,50.0,180,1727,"15 Victory St, Braidwood, NSW 2622, Australia",NRMA,"CCS (Type 2), CHAdeMO",Far West and Orana
+DC-181,Ampol DC charger 181,-33.70444949,151.2968509,urban,2,150.0,181,1265,"1509-1511 Pittwater Rd, Sydney, 2101",Ampol,Not recorded,Sydney - Northern Beaches
+DC-182,JOLT DC charger 182,-33.95633138,151.2265986,urban,2,25.0,182,459,"151 Beauchamp Rd, Sydney, 2036",JOLT,Not recorded,Sydney - Eastern Suburbs
+DC-186,Evie DC charger 186,-33.088721,151.637587,urban,4,50.0,186,1441,"152 Pacific Hwy, 36 Josephson St, Swansea NSW 2281",Evie,Not recorded,Newcastle and Lake Macquarie
+DC-187,Ampol DC charger 187,-33.7428103,150.6929292,urban,2,125.0,187,1201,"153 Coreen Ave Cnr Castlereagh Rd, Penrith, NSW, 2750",Ampol,"CCS (Type 2), CHAdeMO",Sydney - Outer West and Blue Mountains
+DC-191,Wevolt DC charger 191,-35.99499104,146.001983,regional,4,80.0,191,82,"156 Melbourne St, Mulwala, 2647",Wevolt,Not recorded,Murray
+DC-192,BP DC charger 192,-34.71852257,150.0003884,regional,2,75.0,192,270,"15620 Hume Hwy, Marulan, 2579",BP,"CCS (Type 2), CHAdeMO",Capital Region
+DC-193,BP DC charger 193,-34.71922127,149.9953273,regional,2,75.0,193,268,"15666 Hume Hwy, Marulan, 2579",BP,"CCS (Type 2), CHAdeMO",Capital Region
+DC-194,NRMA DC charger 194,-31.5645996,147.1969355,regional,2,50.0,194,1723,"157 Rouse Street, Tenterfield, NSW 2372, Australia",NRMA,"CCS (Type 2), CHAdeMO",Far West and Orana
+DC-196,NRMA DC charger 196,-30.3383734,152.7125414,regional,4,75.0,196,1804,"15c Mitchell St, Bourke, NSW 2840, Australia",NRMA,Not recorded,Coffs Harbour - Grafton
+DC-198,NRMA DC charger 198,-34.87360065,150.6005345,regional,4,160.0,198,234,"16 Berry St, Nowra, 2541",NRMA,Not recorded,Southern Highlands and Shoalhaven
+DC-202,JOLT DC charger 202,-33.75370175,151.287,urban,2,25.0,202,1182,"16 Oaks Ave, Sydney, 2099",JOLT,Not recorded,Sydney - Northern Beaches
+DC-205,Chargefox DC charger 205,-33.88181186,151.2283183,urban,2,30.0,205,830,"16-20 Goodhope St, Sydney, 2021",Chargefox,Not recorded,Sydney - Eastern Suburbs
+DC-207,Ampol DC charger 207,-33.7307758,151.1570112,urban,2,125.0,207,1218,"164 Mona Vale Rd, St Ives, NSW, 2075",Ampol,Not recorded,Sydney - North Sydney and Hornsby
+DC-211,BP DC charger 211,-33.8201522,151.2011902,urban,2,75.0,211,1037,"169 Willoughby Rd, Sydney, 2065",BP,Not recorded,Sydney - North Sydney and Hornsby
+DC-214,Chargefox DC charger 214,-33.78601306,151.1980831,urban,6,47.0,214,1129,"17 Smith St, Sydney, 2067",Chargefox,Not recorded,Sydney - North Sydney and Hornsby
+DC-215,JOLT DC charger 215,-33.96212217,151.0635736,urban,2,25.0,215,448,"17 Stanley St, Sydney, 2210",JOLT,"CCS (Type 2), CHAdeMO",Sydney - Inner South West
+DC-216,NRMA DC charger 216,-29.7756503,151.1151033,regional,4,75.0,216,1836,"17 Stewart St, Wollongong NSW 2500, Australia",NRMA,"CCS (Type 2), CHAdeMO",New England and North West
+DC-218,Exploren DC charger 218,-34.99682987,149.3848398,regional,2,60.0,218,224,"173 The Vineyards Rd, Lake George, 2581",Exploren,Not recorded,Capital Region
+DC-225,NRMA DC charger 225,-32.0506213,150.8667598,regional,4,75.0,225,1698,"18 Dandaloo St, Nyngan, NSW 2825, Australia",NRMA,"CCS (Type 2), CHAdeMO",Hunter Valley exc Newcastle
+DC-227,Chargefox DC charger 227,-33.91374579,151.2390611,urban,2,42.0,227,581,"18 Silver St, Sydney, 2031",Chargefox,Not recorded,Sydney - Eastern Suburbs
+DC-229,Evie DC charger 229,-33.727803,150.976049,urban,4,50.0,229,1229,"18 Victoria Avenue, Castle Hill NSW 2154",Evie,"CCS (Type 2), CHAdeMO",Sydney - Baulkham Hills and Hawkesbury
+DC-236,Tesla DC charger 236,-36.22313618,150.1283463,regional,8,130.0,236,50,"185 Princes Hwy, Narooma , 2546",Tesla,CCS (Type 2),Capital Region
+DC-239,Evie DC charger 239,-33.83108413,151.2436587,urban,4,50.0,239,1008,"188 Raglan St, Sydney, 2088",Evie,"CCS (Type 2), CHAdeMO",Sydney - North Sydney and Hornsby
+DC-246,Tesla DC charger 246,-34.4366153,150.8632982,urban,6,175.0,246,341,"19 Princes Hwy, Figtree NSW 2525, Australia",Tesla,CCS (Type 2),Illawarra
+DC-247,Evie DC charger 247,-33.96168115,151.1325903,urban,4,150.0,247,451,"1-9 Railway Parade, Kogarah NSW 2217",Evie,Not recorded,Sydney - Inner South West
+DC-248,JOLT DC charger 248,-33.86603808,151.0644525,urban,2,25.0,248,922,"19 Richmond Rd, Sydney, 2140",JOLT,"CCS (Type 2), CHAdeMO",Sydney - Inner West
+DC-249,BP DC charger 249,-33.71274679,150.9591602,urban,2,75.0,249,1252,"19 Windsor Rd, Sydney, 2155",BP,Not recorded,Sydney - Baulkham Hills and Hawkesbury
+DC-254,Tesla DC charger 254,-33.7930342,151.2641426,urban,6,175.0,254,1117,197-215 Condamine St Balgowlah NSW 2093 Australia,Tesla,Not recorded,Sydney - Northern Beaches
+DC-256,Ampol DC charger 256,-33.7211325,150.4521067,urban,2,125.0,256,1236,"198 Great Western Highway, Hazelbrook, NSW, 2779",Ampol,Not recorded,Sydney - Outer West and Blue Mountains
+DC-257,Evie DC charger 257,-33.95224765,150.8557529,urban,4,150.0,257,466,"1985 Camden Valley Way, Prestons NSW 2170",Evie,Type 1 (J1772),Sydney - South West
+DC-264,Evie DC charger 264,-33.98102507,151.2497087,urban,2,75.0,264,432,"2 Coast Hospital Rd, Sydney, 2036",Evie,Not recorded,Sydney - Eastern Suburbs
+DC-265,BP DC charger 265,-30.6267528,152.9724735,regional,2,75.0,265,1790,"2 Corkwood Rd, Valla, 2448",BP,Not recorded,Mid North Coast
+DC-268,Exploren DC charger 268,-33.62676281,150.8353483,urban,2,60.0,268,1309,"2 Hannabus Pl, Windsor, 2756",Exploren,Not recorded,Sydney - Baulkham Hills and Hawkesbury
+DC-270,Evie DC charger 270,-34.96936041,149.03,regional,2,50.0,270,228,"2 Hercules Street, Murrumbateman, 2582",Evie,"CCS (Type 2), CHAdeMO",Capital Region
+DC-277,Tesla DC charger 277,-31.63426031,152.7250501,regional,8,250.0,277,1719,"2 Ocean Dr, Kew, 2439",Tesla,CCS (Type 2),Mid North Coast
+DC-279,JOLT DC charger 279,-33.96242247,151.1343213,urban,2,25.0,279,447,"2 Premier St, Sydney, 2217",JOLT,Not recorded,Sydney - Inner South West
+DC-281,Chargefox DC charger 281,-33.88578883,151.2573263,urban,2,40.0,281,775,"2 Riddell St, Sydney, 2023",Chargefox,Not recorded,Sydney - Eastern Suburbs
+DC-283,Evie DC charger 283,-33.813936,151.169298,urban,4,50.0,283,1059,"2 Rosenthal Ave, Lane Cove NSW 2066",Evie,"CCS (Type 2), CHAdeMO",Sydney - North Sydney and Hornsby
+DC-286,Chargefox DC charger 286,-33.71984389,150.918979,urban,4,40.0,286,1239,"2 Sentry Dr, Sydney, 2768",Chargefox,Not recorded,Sydney - Blacktown
+DC-288,Evie DC charger 288,-33.48184889,150.1361812,regional,4,150.0,288,1330,"2 Stewart St, Lithgow, 2790",Evie,Not recorded,Central West
+DC-295,Chargefox DC charger 295,-33.75074779,150.8580751,urban,2,47.0,295,1188,"20 Owen St, Sydney, 2761",Chargefox,Not recorded,Sydney - Blacktown
+DC-298,Evie DC charger 298,-33.907982,151.170899,urban,4,50.0,298,610,"20 Smidmore St, Marrickville NSW 2204",Evie,"CCS (Type 2), CHAdeMO",Sydney - City and Inner South
+DC-300,Evie DC charger 300,-34.423975,150.892316,urban,4,50.0,300,346,"200 Crown St, Wollongong NSW 2500",Evie,"CCS (Type 2), CHAdeMO",Illawarra
+DC-303,Evie DC charger 303,-31.94333438,152.4706146,regional,4,150.0,303,1706,"201 Manning River Drive, Taree, 2430",Evie,"CCS (Type 2), CHAdeMO",Mid North Coast
+DC-304,Tesla DC charger 304,-34.75552357,149.720998,regional,16,130.0,304,256,"201 Sloane St, Goulburn , 2580",Tesla,CCS (Type 2),Capital Region
+DC-306,Tesla DC charger 306,-34.0725934,150.8078816,urban,12,175.0,306,399,20-22 Camden Rd Campbelltown NSW 2560 Australia,Tesla,CCS (Type 2),Sydney - Outer South West
+DC-310,Evie DC charger 310,-34.44672777,150.436991,regional,4,150.0,310,338,"205 Old Hume Hwy, Mittagong, 2575",Evie,Not recorded,Southern Highlands and Shoalhaven
+DC-312,Ampol DC charger 312,-33.9558559,150.8648944,urban,2,125.0,312,460,"2072 Camden Valley Way, Edmondson Park, NSW, 2174",Ampol,Not recorded,Sydney - South West
+DC-313,NRMA DC charger 313,-32.77342947,151.2982713,regional,4,75.0,313,1558,"2090 Broke Rd, Pokolbin, 2320",NRMA,Not recorded,Hunter Valley exc Newcastle
+DC-323,Ampol DC charger 323,-34.56639944,150.8394074,urban,10,150.0,323,294,"211 Lake Entrance Rd, Shellharbour City Centre, 2529",Ampol,Not recorded,Illawarra
+DC-329,JOLT DC charger 329,-33.9701502,151.0801331,urban,2,25.0,329,440,"22 Cook Ln, Sydney, 2223",JOLT,Not recorded,Sydney - Inner South West
+DC-331,Evie DC charger 331,-34.02927306,151.1220736,urban,4,75.0,331,418,"220 Taren Point Rd, Caringbah NSW 2229",Evie,Not recorded,Sydney - Sutherland
+DC-332,Evie DC charger 332,-33.770295,150.673823,urban,4,350.0,332,1156,"221 Wolseley St, Jamisontown NSW 2750",Evie,"CCS (Type 2), CHAdeMO",Sydney - Outer West and Blue Mountains
+DC-333,JOLT DC charger 333,-33.87384989,151.1019449,urban,2,25.0,333,882,"22-24 Park Ave, Sydney, 2134",JOLT,Not recorded,Sydney - Inner West
+DC-334,BP DC charger 334,-34.40332537,150.8914635,urban,2,75.0,334,360,"224 Princes Hwy, Wollongong, 2519",BP,CCS (Type 2),Illawarra
+DC-335,Evie DC charger 335,-33.77578997,150.9330864,urban,4,150.0,335,1142,"224 Prospect Hwy, Seven Hills NSW 2147",Evie,Not recorded,Sydney - Blacktown
+DC-339,JOLT DC charger 339,-33.95800605,150.8864635,urban,2,25.0,339,456,"2260 Camden Valley Way, Sydney, 2170",JOLT,Not recorded,Sydney - South West
+DC-340,JOLT DC charger 340,-33.9581552,150.8866296,urban,2,25.0,340,455,"2260 Camden Valley Way, Sydney, 2170",JOLT,Not recorded,Sydney - South West
+DC-341,Evie DC charger 341,-33.705677,150.876075,urban,4,50.0,341,1263,"227 Railway Terrace, Schofields NSW 2762",Evie,"CCS (Type 2), CHAdeMO",Sydney - Blacktown
+DC-342,Everty DC charger 342,-33.09176581,151.6374214,urban,2,25.0,342,1438,"228-234 Pacific Hwy, Swansea NSW, 2281",Everty,Not recorded,Newcastle and Lake Macquarie
+DC-343,Tesla DC charger 343,-32.78729434,151.7283534,regional,12,130.0,343,1542,"2285 Pacific Hwy, Heatherbrae, 2324",Tesla,CCS (Type 2),Hunter Valley exc Newcastle
+DC-347,JOLT DC charger 347,-33.92159464,151.2565566,urban,2,50.0,347,546,"230 Arden St, Sydney, 2034",JOLT,Not recorded,Sydney - Eastern Suburbs
+DC-352,BP DC charger 352,-32.78334139,151.7370591,regional,2,75.0,352,1544,"2398 Pacific Hwy, Heatherbrae, 2324",BP,Not recorded,Hunter Valley exc Newcastle
+DC-354,Evie DC charger 354,-30.71023028,152.9197698,regional,4,350.0,354,1782,"24 Cooper St, Macksville, 2447",Evie,"CCS (Type 2), CHAdeMO",Mid North Coast
+DC-357,Tesla DC charger 357,-34.60929234,150.2297688,regional,6,250.0,357,283,"24 Sallys Corner Rd, Exeter , 2579",Tesla,CCS (Type 2),Southern Highlands and Shoalhaven
+DC-358,Evie DC charger 358,-32.96354505,151.6617414,urban,4,150.0,358,1462,"240 Hillsborough Rd, Warners Bay NSW 2282",Evie,Not recorded,Newcastle and Lake Macquarie
+DC-360,Viva Energy A DC charger 360,-34.049425,150.7603383,urban,4,175.0,360,407,"241 Waterworth Dr, Mount Annan NSW 2567, Australia",Viva Energy A,Not recorded,Sydney - Outer South West
+DC-364,BP DC charger 364,-33.91960065,151.0668519,urban,2,75.0,364,555,"24-42 King Georges Rd, Sydney, 2195",BP,"CCS (Type 2), CHAdeMO",Sydney - Inner South West
+DC-366,Evie DC charger 366,-33.952562,151.05103,urban,4,75.0,366,465,"247 Belmore Rd, Riverwood NSW 2210",Evie,Not recorded,Sydney - Inner South West
+DC-369,Evie DC charger 369,-33.75133669,151.2434692,urban,4,150.0,369,1187,"25 Frenchs Forest Rd E, Frenchs Forest NSW 2086",Evie,CCS (Type 2),Sydney - Northern Beaches
+DC-370,Chargefox DC charger 370,-34.84551056,148.9151892,regional,4,47.0,370,239,"250 Comur St, Yass, 2582",Chargefox,CCS (Type 2),Capital Region
+DC-374,Tesla DC charger 374,-30.28143948,153.1316667,regional,12,130.0,374,1818,"253 Pacific Hwy, Coffs Harbour, 2450",Tesla,CCS (Type 2),Coffs Harbour - Grafton
+DC-375,JOLT DC charger 375,-33.71943448,151.2986617,urban,2,25.0,375,1243,"25-47 Ocean St, Sydney, 2101",JOLT,Not recorded,Sydney - Northern Beaches
+DC-377,Tesla DC charger 377,-30.27522227,153.1319389,regional,4,60.0,377,1819,"26 Aspect Dr, Coffs Harbour, 2450",Tesla,CCS (Type 2),Coffs Harbour - Grafton
+DC-378,Evie DC charger 378,-33.85437842,151.103997,urban,2,75.0,378,961,"26 Bent St, Sydney, 2137",Evie,Not recorded,Sydney - Inner West
+DC-379,NRMA DC charger 379,-28.8659158,153.0485564,regional,2,75.0,379,1871,"26 Neilly St, Walgett, NSW 2832, Australia",NRMA,"CCS (Type 2), CHAdeMO",Richmond - Tweed
+DC-383,Evie DC charger 383,-33.7459827,150.8357299,urban,4,75.0,383,1195,"260 Jersey Rd, Plumpton NSW 2761",Evie,Not recorded,Sydney - Blacktown
+DC-384,Evie DC charger 384,-33.889564,151.123599,urban,4,50.0,384,739,"260A Liverpool Rd, Ashfield NSW 2131",Evie,"CCS (Type 2), CHAdeMO",Sydney - Inner West
+DC-392,Evie DC charger 392,-33.75442135,151.2873331,urban,4,150.0,392,1180,"27-33 Oaks Ave, Dee Why NSW 2099",Evie,Not recorded,Sydney - Northern Beaches
+DC-394,NRMA DC charger 394,-35.3548636,145.725081,regional,2,50.0,394,148,"28 Auburn Street, Moree, NSW 2400, Australia",NRMA,"CCS (Type 2), CHAdeMO",Murray
+DC-396,EVUp DC charger 396,-28.64327432,153.6158749,regional,2,100.0,396,1894,"28 Lawson St, Byron Bay, 2481",EVUp,"CCS (Type 2), CHAdeMO",Richmond - Tweed
+DC-398,Evie DC charger 398,-33.7323514,151.1307097,urban,4,75.0,398,1213,"2-8 Turramurra Ave, Sydney, 2074",Evie,Not recorded,Sydney - North Sydney and Hornsby
+DC-401,Evie DC charger 401,-29.56122927,153.1492773,regional,4,350.0,401,1844,"2848 Pacific Hwy, Tyndale NSW, 2464",Evie,"CCS (Type 2), CHAdeMO",Coffs Harbour - Grafton
+DC-404,JOLT DC charger 404,-33.71252457,150.9583413,urban,2,25.0,404,1254,"29 Windsor Rd, Sydney, 2155",JOLT,Not recorded,Sydney - Baulkham Hills and Hawkesbury
+DC-407,JOLT DC charger 407,-33.95077182,151.051971,urban,2,25.0,407,470,"293 Belmore Rd, Sydney, 2210",JOLT,Not recorded,Sydney - Inner South West
+DC-408,NRMA DC charger 408,-34.74649754,146.5500761,regional,4,180.0,408,261,"29-55 Twynam St, Narrandera, 2700",NRMA,"CCS (Type 2), CHAdeMO",Riverina
+DC-409,NRMA DC charger 409,-34.74651756,146.548011,regional,2,50.0,409,260,"29-55 Twynam St, Narrandera, 2700",NRMA,"CCS (Type 2), CHAdeMO",Riverina
+DC-412,NRMA DC charger 412,-35.70851156,150.1753874,regional,2,50.0,412,113,"2A Beach Rd, Batemans Bay, 2536",NRMA,"CCS (Type 2), CHAdeMO",Capital Region
+DC-416,NRMA DC charger 416,-30.08825,145.9351051,regional,2,50.0,416,1823,"3 Broomfield St, Cobar, NSW 2835, Australia",NRMA,"CCS (Type 2), CHAdeMO",Far West and Orana
+DC-418,Evie DC charger 418,-35.34739722,149.2454031,regional,4,75.0,418,152,"3 Bungendore Rd, Queanbeyan NSW 2620",Evie,Not recorded,Capital Region
+DC-421,Chargefox DC charger 421,-36.6972593,149.8418629,regional,2,42.0,421,20,"3 Corkhill Pl, Bega, 2550",Chargefox,Not recorded,Capital Region
+DC-423,Evie DC charger 423,-33.86390159,151.0894518,urban,4,75.0,423,927,"3 George St, North Strathfield NSW 2137",Evie,Not recorded,Sydney - Inner West
+DC-426,Evie DC charger 426,-28.21510115,153.5404384,regional,4,75.0,426,1928,"3 Leisure Dr, Tweed Heads, 2486",Evie,Not recorded,Richmond - Tweed
+DC-432,JOLT DC charger 432,-33.77897702,151.2838899,urban,2,25.0,432,1137,"30 Dowling St, Sydney, 2096",JOLT,Not recorded,Sydney - Northern Beaches
+DC-434,JOLT DC charger 434,-33.86942247,151.108024,urban,2,25.0,434,912,"302-312 Parramatta Rd, Sydney, 2134",JOLT,Not recorded,Sydney - Inner West
+DC-435,Chargefox DC charger 435,-33.40941346,151.3507447,urban,2,60.0,435,1360,"303 Henry Parry Dr, Central Coast, 2250",Chargefox,Not recorded,Central Coast
+DC-438,Tesla DC charger 438,-36.23294099,149.1322903,regional,10,250.0,438,48,"30-36 Sharp St, Cooma, 2630",Tesla,Not recorded,Capital Region
+DC-440,Exploren DC charger 440,-33.93524029,151.0986717,urban,2,120.0,440,504,"30A Richland St, Sydney, 2208",Exploren,Not recorded,Sydney - Inner South West
+DC-444,JOLT DC charger 444,-33.96786191,151.1060561,urban,2,25.0,444,443,"31 Treacy St, Sydney, 2220",JOLT,Not recorded,Sydney - Inner South West
+DC-451,Exploren DC charger 451,-33.81024029,151.0342402,urban,2,120.0,451,1073,"316 Victoria Rd, Sydney, 2116",Exploren,Not recorded,Sydney - Parramatta
+DC-455,Evie DC charger 455,-35.2771512,147.7360881,regional,4,350.0,455,170,"32 Sydney St, Tarcutta, 2652",Evie,"CCS (Type 2), CHAdeMO",Riverina
+DC-456,Chargefox DC charger 456,-34.84356861,150.5955365,regional,4,47.0,456,241,"320 Princes Hwy, Bomaderry, 2541",Chargefox,Type 2 (Socket Only),Southern Highlands and Shoalhaven
+DC-457,Evie DC charger 457,-33.8521028,150.9955836,urban,4,50.0,457,970,"322 Woodville Rd, Guildford NSW 2161",Evie,"CCS (Type 2), CHAdeMO",Sydney - Parramatta
+DC-459,BP DC charger 459,-32.93782987,151.6567367,urban,4,150.0,459,1472,"328 Main Rd, Newcastle, 2285",BP,Not recorded,Newcastle and Lake Macquarie
+DC-461,BP DC charger 461,-33.91611516,151.1728939,urban,2,75.0,461,571,"329-339 Princes Hwy, Sydney, 2044",BP,CCS (Type 2),Sydney - City and Inner South
+DC-463,Chargefox DC charger 463,-32.90870375,151.7304655,urban,2,60.0,463,1501,"33 Moate St, Newcastle, 2298",Chargefox,Not recorded,Newcastle and Lake Macquarie
+DC-466,Evie DC charger 466,-33.7366211,151.0743388,urban,2,50.0,466,1208,"330 Pennant Hills Rd, Pennant Hills NSW 2120",Evie,CCS (Type 2),Sydney - Ryde
+DC-470,Tesla DC charger 470,-35.00212117,148.1098549,regional,12,130.0,470,223,"34 Annie Pyers Dr, Gundagai , 2722",Tesla,CCS (Type 2),Riverina
+DC-476,Ampol DC charger 476,-34.4859664,150.8064594,urban,2,125.0,476,325,"342 Kanahooka Rd, Brownsville, NSW, 2530",Ampol,Not recorded,Illawarra
+DC-479,Engie DC charger 479,-33.7945647,151.18613,urban,2,150.0,479,1111,"345 Victoria Ave, Chatswood NSW 2067",Engie,CCS (Type 2),Sydney - North Sydney and Hornsby
+DC-481,Chargefox DC charger 481,-33.79304309,151.1865576,urban,2,150.0,481,1116,"345 Victoria Ave, Sydney, 2067",Chargefox,CCS (Type 2),Sydney - North Sydney and Hornsby
+DC-482,Tesla DC charger 482,-32.44806211,150.8316627,regional,12,130.0,482,1659,"3483 Jerrys Plains Rd, Jerrys Plains, 2330",Tesla,CCS (Type 2),Hunter Valley exc Newcastle
+DC-484,Engie DC charger 484,-33.8556219,151.0767955,urban,2,150.0,484,957,"3-5 Underwood Rd, Homebush NSW 2140",Engie,CCS (Type 2),Sydney - Inner West
+DC-495,BP DC charger 495,-33.91983588,151.226974,urban,2,75.0,495,554,"368 Anzac Pde, Sydney, 2032",BP,Not recorded,Sydney - Eastern Suburbs
+DC-496,NRMA DC charger 496,-32.09907112,152.3815746,regional,2,50.0,496,1695,"37 Nabiac St, Nabiac, 2312",NRMA,"CCS (Type 2), CHAdeMO",Mid North Coast
+DC-500,Tesla DC charger 500,-33.75869074,150.9914705,urban,4,250.0,500,1176,"375-383 Windsor Rd, Sydney, 2153",Tesla,Not recorded,Sydney - Baulkham Hills and Hawkesbury
+DC-501,Ampol DC charger 501,-33.7668115,150.9549656,urban,2,125.0,501,1159,"38 Abbott Rd, Seven Hills NSW 2147",Ampol,CCS (Type 2),Sydney - Blacktown
+DC-502,Chargefox DC charger 502,-34.03434039,151.0726517,urban,4,47.0,502,411,"38 Flora St, Sydney, 2232",Chargefox,Type 2 (Socket Only),Sydney - Sutherland
+DC-503,Tesla DC charger 503,-35.72254759,147.3175105,regional,9,250.0,503,106,"38 Swift St, Holbrook, 2644",Tesla,CCS (Type 2),Murray
+DC-511,Evie DC charger 511,-33.83281286,151.1277918,urban,2,75.0,511,1002,"3A Cowell St, Sydney, 2111",Evie,Not recorded,Sydney - Ryde
+DC-513,Ampol DC charger 513,-33.90556061,151.2126807,urban,6,150.0,513,631,"4 Defries Ave, Sydney, 2017",Ampol,"CCS (Type 2), CHAdeMO",Sydney - City and Inner South
+DC-517,Evie DC charger 517,-34.07206311,150.8051261,urban,4,150.0,517,401,"4 Tindall St, Sydney, 2560",Evie,Not recorded,Sydney - Outer South West
+DC-519,Evie DC charger 519,-33.82807512,151.2434454,urban,2,75.0,519,1010,"40 Gouldsbury St, Sydney, 2088",Evie,Not recorded,Sydney - North Sydney and Hornsby
+DC-520,Chargefox DC charger 520,-33.74376581,150.809028,urban,2,160.0,520,1199,"40 Jersey Rd, Sydney, 2770",Chargefox,Not recorded,Sydney - Blacktown
+DC-524,JOLT DC charger 524,-33.68328033,150.9165856,urban,2,25.0,524,1288,"40 Panmure St, Sydney, 2155",JOLT,Not recorded,Sydney - Baulkham Hills and Hawkesbury
+DC-528,Evie DC charger 528,-33.898778,150.919791,urban,4,50.0,528,670,"401 Cabramatta Rd W, Cabramatta NSW 2166",Evie,"CCS (Type 2), CHAdeMO",Sydney - South West
+DC-529,Chargefox DC charger 529,-32.6538509,151.9625806,regional,6,185.0,529,1628,"403 Tarean Rd, Karuah, 2324",Chargefox,"CCS (Type 2), CHAdeMO",Hunter Valley exc Newcastle
+DC-530,Chargefox DC charger 530,-33.81391396,151.1777027,urban,2,50.0,530,1060,"405 Pacific Hwy, Sydney, 2064",Chargefox,Not recorded,Sydney - North Sydney and Hornsby
+DC-532,BP DC charger 532,-28.86161666,153.5169069,regional,2,75.0,532,1876,"41 Bruxner Hwy, Ballina, 2478",BP,Not recorded,Richmond - Tweed
+DC-536,Exploren DC charger 536,-33.58328633,150.7009239,urban,2,180.0,536,1319,"41 Yobarnie Ave, Richmond, 2754",Exploren,Not recorded,Sydney - Outer West and Blue Mountains
+DC-540,Chargefox DC charger 540,-33.95139644,151.232049,urban,8,25.0,540,468,"417-439 Bunnerong Rd, Sydney, 2035",Chargefox,Not recorded,Sydney - Eastern Suburbs
+DC-542,Chargefox DC charger 542,-34.07161666,150.8059289,urban,4,200.0,542,402,"42 Camden Rd, Sydney, 2560",Chargefox,"CCS (Type 2), CHAdeMO",Sydney - Outer South West
+DC-551,Chargefox DC charger 551,-28.85743948,153.5614054,regional,4,120.0,551,1877,"44 Bangalow Rd, Ballina, 2478",Chargefox,"CCS (Type 2), CHAdeMO",Richmond - Tweed
+DC-552,JOLT DC charger 552,-33.94841746,151.0710831,urban,2,25.0,552,478,"44 Broadarrow Rd, Sydney, 2209",JOLT,Not recorded,Sydney - Inner South West
+DC-555,Chargefox DC charger 555,-28.80654859,153.2786376,regional,2,75.0,555,1884,"44 Molesworth St, Lismore, 2480",Chargefox,"CCS (Type 2), CHAdeMO",Richmond - Tweed
+DC-562,Exploren DC charger 562,-33.87152357,151.2067017,urban,2,60.0,562,900,"455 George St, Sydney, 2000",Exploren,Not recorded,Sydney - City and Inner South
+DC-565,Evie DC charger 565,-33.720695,150.429727,urban,4,50.0,565,1238,"4-6 New St, Lawson NSW 2783",Evie,"CCS (Type 2), CHAdeMO",Sydney - Outer West and Blue Mountains
+DC-566,Evie DC charger 566,-33.703313,151.213158,urban,4,50.0,566,1267,"4-6 Niangala Cl, Belrose NSW 2085",Evie,"CCS (Type 2), CHAdeMO",Sydney - Northern Beaches
+DC-569,Exploren DC charger 569,-33.8208589,151.121011,urban,2,120.0,569,1035,"461 Victoria Rd, Sydney, 2111",Exploren,Not recorded,Sydney - Ryde
+DC-573,JOLT DC charger 573,-33.80837842,151.1785636,urban,2,25.0,573,1078,"472 Pacific Hwy, Sydney, 2066",JOLT,Not recorded,Sydney - North Sydney and Hornsby
+DC-574,Chargefox DC charger 574,-32.92120425,151.747975,urban,2,60.0,574,1494,"47-49A Cleary St, Newcastle, 2303",Chargefox,Not recorded,Newcastle and Lake Macquarie
+DC-575,Ampol DC charger 575,-34.02936741,151.0807237,urban,2,150.0,575,417,"481 Princes Hwy, Sydney, 2232",Ampol,Not recorded,Sydney - Sutherland
+DC-576,BP DC charger 576,-33.7953594,151.255969,urban,2,75.0,576,1108,"487 Sydney Rd, Sydney, 2093",BP,Not recorded,Sydney - Northern Beaches
+DC-588,Exploren DC charger 588,-33.73201706,151.1273493,urban,2,40.0,588,1215,"5 Ray St, Sydney, 2074",Exploren,Not recorded,Sydney - North Sydney and Hornsby
+DC-591,Evie DC charger 591,-33.97585397,150.811619,urban,4,75.0,591,436,"5 Willowdale Dr, Denham Court NSW 2565",Evie,Not recorded,Sydney - Outer South West
+DC-592,NRMA DC charger 592,-30.3247856,149.784033,regional,4,75.0,592,1806,"50 Bathurst St, Brewarrina, NSW 2839, Australia",NRMA,Not recorded,New England and North West
+DC-594,Chargefox DC charger 594,-33.87899704,151.2623363,urban,2,40.0,594,847,"50 O'Sullivan Rd, Sydney, 2029",Chargefox,Not recorded,Sydney - Eastern Suburbs
+DC-600,Ampol DC charger 600,-33.911492,151.0732469,urban,2,125.0,600,595,"516 Punchbowl Rd Cnr Wangee Rd, Lakemba, NSW, 2195",Ampol,Not recorded,Sydney - Inner South West
+DC-606,NRMA DC charger 606,-31.45803208,152.8274244,regional,2,50.0,606,1729,"528 John Oxley Dr, Thrumster, 2444",NRMA,CCS (Type 2),Mid North Coast
+DC-609,Chargefox DC charger 609,-34.74796201,149.7496456,regional,2,50.0,609,257,"53 Sydney Rd, Goulburn, 2580",Chargefox,CCS (Type 2),Capital Region
+DC-612,Evie DC charger 612,-35.71073278,150.1776366,regional,2,50.0,612,110,"53A Orient St, Batemans Bay, 2536",Evie,"CCS (Type 2), CHAdeMO",Capital Region
+DC-613,JOLT DC charger 613,-33.89474579,151.1096857,urban,2,25.0,613,695,"54 Brighton St, Sydney, 2132",JOLT,Not recorded,Sydney - Inner West
+DC-616,Evie DC charger 616,-28.19898503,153.545985,regional,4,150.0,616,1931,"54 Minjungbal Dr, Tweed Heads, 2486",Evie,Not recorded,Richmond - Tweed
+DC-617,Evie DC charger 617,-34.0329857,151.1250638,urban,4,75.0,617,414,"54-76 Captain Cook Dr, Caringbah NSW 2229",Evie,"CCS (Type 2), CHAdeMO",Sydney - Sutherland
+DC-622,JOLT DC charger 622,-33.9610561,151.2309449,urban,2,25.0,622,454,"550 Bunnerong Rd, Sydney, 2036",JOLT,Not recorded,Sydney - Eastern Suburbs
+DC-627,Tesla DC charger 627,-29.42699904,153.2391471,regional,8,130.0,627,1856,"56 Morpeth St, Harwood , 2465",Tesla,CCS (Type 2),Coffs Harbour - Grafton
+DC-636,Tesla DC charger 636,-31.10164969,150.9171261,regional,8,130.0,636,1758,"58 Phillip St, West Tamworth , 2340",Tesla,CCS (Type 2),New England and North West
+DC-637,BP DC charger 637,-33.87410415,151.1267628,urban,4,75.0,637,881,"580 Parramatta Rd, Sydney, 2132",BP,"CCS (Type 2), CHAdeMO",Sydney - Inner West
+DC-638,Tesla DC charger 638,-34.03339744,151.0731502,urban,6,250.0,638,413,"580 Princes Hwy, Sydney, 2232",Tesla,CCS (Type 2),Sydney - Sutherland
+DC-640,JOLT DC charger 640,-33.76210915,151.2142012,urban,2,25.0,640,1170,"59 The Centre, Sydney, 2087",JOLT,Not recorded,Sydney - Northern Beaches
+DC-642,Evie DC charger 642,-33.92659564,151.2313293,urban,4,75.0,642,522,"594 Anzac Pde, Sydney, 2032",Evie,Not recorded,Sydney - Eastern Suburbs
+DC-643,Ampol DC charger 643,-33.7105301,151.1024488,urban,2,125.0,643,1255,"59-61 Pacific Hwy Cnr Unwin Rd, Waitara, NSW, 2077",Ampol,CCS (Type 2),Sydney - North Sydney and Hornsby
+DC-647,Chargefox DC charger 647,-33.62137942,151.1494484,urban,2,75.0,647,1311,"6 Boundary St, Sydney, 2081",Chargefox,CCS (Type 2),Sydney - North Sydney and Hornsby
+DC-649,NRMA DC charger 649,-30.0205758,148.1181013,regional,4,75.0,649,1826,"6 Castlereagh St Gilgandra, NSW 2827, Australia",NRMA,Not recorded,Far West and Orana
+DC-653,Evie DC charger 653,-33.82554959,151.2414274,urban,2,50.0,653,1018,"6 Myahgah Rd, Sydney, 2088",Evie,"CCS (Type 2), CHAdeMO",Sydney - North Sydney and Hornsby
+DC-657,Evie DC charger 657,-33.73460909,150.928265,urban,4,75.0,657,1210,"60 Glenwood Park Dr, Glenwood NSW 2768",Evie,Not recorded,Sydney - Blacktown
+DC-662,Evie DC charger 662,-33.82299004,151.2108829,urban,4,50.0,662,1031,"60-62 Amherst St, Sydney, 2062",Evie,Not recorded,Sydney - North Sydney and Hornsby
+DC-665,Evie DC charger 665,-33.43668073,151.3943884,urban,4,75.0,665,1339,"620-658 Terrigal Dr, Central Coast, 2250",Evie,Not recorded,Central Coast
+DC-669,Evie DC charger 669,-33.92288364,151.1652088,urban,4,150.0,669,541,"634-726 Princes Hwy, Tempe NSW 2044",Evie,Not recorded,Sydney - City and Inner South
+DC-672,Chargefox DC charger 672,-34.39180785,150.8945806,urban,4,47.0,672,364,"66 Princes Hwy, Wollongong, 2519",Chargefox,Not recorded,Illawarra
+DC-674,Exploren DC charger 674,-33.90204809,151.0655796,urban,2,120.0,674,655,"67 Roberts Rd, Sydney, 2190",Exploren,Not recorded,Sydney - Inner South West
+DC-677,JOLT DC charger 677,-33.73553158,150.8513123,urban,4,25.0,677,1209,"670 Richmond Rd, Sydney, 2761",JOLT,Not recorded,Sydney - Blacktown
+DC-680,Ampol DC charger 680,-33.4267831,151.321995,urban,2,125.0,680,1344,"69-71 Central Coast Hwy, Gosford West, NSW, 2250",Ampol,Not recorded,Central Coast
+DC-681,JOLT DC charger 681,-33.6760501,151.3031301,urban,2,25.0,681,1295,"7 Bungan St, Sydney, 2103",JOLT,"CCS (Type 2), CHAdeMO",Sydney - Northern Beaches
+DC-685,Exploren DC charger 685,-33.01454359,151.5961952,urban,2,40.0,685,1449,"7 Pemell Street, Toronto, 2283",Exploren,Not recorded,Newcastle and Lake Macquarie
+DC-687,NRMA DC charger 687,-33.47800605,150.1611241,regional,4,50.0,687,1332,"7 Tank St, Lithgow, 2790",NRMA,"CCS (Type 2), CHAdeMO",Central West
+DC-696,JOLT DC charger 696,-33.7523594,151.2865606,urban,2,25.0,696,1184,"725 Pittwater Rd, Sydney, 2099",JOLT,Not recorded,Sydney - Northern Beaches
+DC-698,Evie DC charger 698,-33.915171,151.241129,urban,4,50.0,698,575,"73 Belmore Road, Randwick NSW 2031",Evie,"CCS (Type 2), CHAdeMO",Sydney - Eastern Suburbs
+DC-699,Chargefox DC charger 699,-33.82852457,151.2439029,urban,2,47.0,699,1009,"731-741 Military Rd, Sydney, 2088",Chargefox,Not recorded,Sydney - North Sydney and Hornsby
+DC-702,Ampol DC charger 702,-33.63860965,150.7837227,urban,4,150.0,702,1305,"741 George St, Windsor, 2756",Ampol,Not recorded,Sydney - Outer West and Blue Mountains
+DC-704,NRMA DC charger 704,-32.90272177,151.6697678,urban,4,50.0,704,1504,"76 Cowper St, Wallsend, 2287",NRMA,"CCS (Type 2), CHAdeMO",Newcastle and Lake Macquarie
+DC-706,Tesla DC charger 706,-32.24995,148.6091822,regional,8,130.0,706,1683,"76 Wingewarra St, Dubbo , 2830",Tesla,CCS (Type 2),Far West and Orana
+DC-708,NRMA DC charger 708,-33.83451056,148.6935365,regional,2,50.0,708,996,"77 Darling St, Cowra, 2794",NRMA,CCS (Type 2),Central West
+DC-710,Evie DC charger 710,-33.93800905,151.2385195,urban,4,75.0,710,499,"772 Anzac Pde, Sydney, 2035",Evie,Not recorded,Sydney - Eastern Suburbs
+DC-711,Chargefox DC charger 711,-33.85700205,151.2828038,urban,2,40.0,711,953,"773 Old South Head Rd, Sydney, 2030",Chargefox,Not recorded,Sydney - Eastern Suburbs
+DC-713,Ampol DC charger 713,-33.7653881,150.6214758,urban,2,125.0,713,1163,"78 Great Western Hwy Cnr Ross St, Glenbrook, NSW, 2773",Ampol,"CCS (Type 2), CHAdeMO",Sydney - Outer West and Blue Mountains
+DC-714,Chargefox DC charger 714,-33.73886191,150.9475235,urban,4,125.0,714,1204,"7-9 Irvine Pl, Sydney, 2153",Chargefox,Not recorded,Sydney - Baulkham Hills and Hawkesbury
+DC-717,Exploren DC charger 717,-33.90533738,151.1936567,urban,2,120.0,717,633,"8 Euston Rd, Sydney, 2015",Exploren,Not recorded,Sydney - City and Inner South
+DC-718,Exploren DC charger 718,-33.89360765,151.1783463,urban,2,50.0,718,708,"8 Federation Rd, Sydney, 2050",Exploren,Not recorded,Sydney - City and Inner South
+DC-721,BP DC charger 721,-36.4147548,148.6177838,regional,4,75.0,721,41,"8 Kosciuszko Rd, Jindabyne, 2627",BP,Not recorded,Capital Region
+DC-726,NRMA DC charger 726,-31.7223908,148.6571378,regional,2,50.0,726,1715,"8/24 Cross St, Wagga Wagga, NSW 2650",NRMA,Not recorded,Far West and Orana
+DC-727,NRMA DC charger 727,-30.97803908,150.2508509,regional,2,50.0,727,1772,"80 Little Barber St, Gunnedah, 2380",NRMA,"CCS (Type 2), CHAdeMO",New England and North West
+DC-729,NRMA DC charger 729,-30.9529988,148.3875852,regional,4,75.0,729,1775,"81 Hickory St, Dorrigo, NSW 2453, Australia",NRMA,Not recorded,Far West and Orana
+DC-730,NRMA DC charger 730,-34.428348,150.9001506,urban,2,50.0,730,343,"81 Meehan St, Yass NSW 2582, Australia",NRMA,"CCS (Type 2), CHAdeMO",Illawarra
+DC-734,JOLT DC charger 734,-33.94349854,151.2397227,urban,2,25.0,734,488,"819-827 Anzac Pde, Sydney, 2035",JOLT,Not recorded,Sydney - Eastern Suburbs
+DC-735,NRMA DC charger 735,-34.4476103,147.5348555,regional,2,50.0,735,334,"82 Marsh St, Armidale, NSW 2350, Australia",NRMA,Not recorded,Riverina
+DC-736,Evie DC charger 736,-33.76927632,150.7354595,urban,2,50.0,736,1158,"82A O'Connell St, Sydney, 2747",Evie,"CCS (Type 2), CHAdeMO, Type 2 (Socket Only)",Sydney - Outer West and Blue Mountains
+DC-739,Tesla DC charger 739,-36.23552257,149.1267948,regional,8,150.0,739,47,"85/91 Commissioner St, Cooma , 2630",Tesla,CCS (Type 2),Capital Region
+DC-745,JOLT DC charger 745,-33.76207512,151.2724464,urban,2,25.0,745,1171,"87 Winbourne Rd, Sydney, 2100",JOLT,Not recorded,Sydney - Northern Beaches
+DC-746,Evie DC charger 746,-33.94314819,151.2396466,urban,2,75.0,746,489,"872 Anzac Pde, Sydney, 2035",Evie,Not recorded,Sydney - Eastern Suburbs
+DC-747,Ampol DC charger 747,-33.716109,150.8453094,urban,2,125.0,747,1248,"875 Richmond Rd, Marsden Park, NSW, 2765",Ampol,Not recorded,Sydney - Blacktown
+DC-748,Ampol DC charger 748,-33.9047231,151.0645884,urban,2,125.0,748,636,"87-91 Roberts Rd Cnr Moondo St, Greenacre, NSW, 2190",Ampol,Not recorded,Sydney - Inner South West
+DC-750,Evie DC charger 750,-33.82378797,151.1951941,urban,4,50.0,750,1029,"88 Christie St, St Leonards NSW 2065",Evie,"CCS (Type 2), CHAdeMO",Sydney - North Sydney and Hornsby
+DC-753,Tesla DC charger 753,-33.75321026,151.2873604,urban,4,250.0,753,1183,"888 Pittwater Rd, Sydney, 2099",Tesla,Not recorded,Sydney - Northern Beaches
+DC-754,Evie DC charger 754,-33.92407212,151.2266947,urban,2,50.0,754,536,"88-90 Houston Rd, Sydney, 2032",Evie,Not recorded,Sydney - Eastern Suburbs
+DC-755,NRMA DC charger 755,-29.0572067,152.0186837,regional,4,50.0,755,1863,"89 Barwan St, Narrabri, NSW 2390, Australia,",NRMA,Not recorded,New England and North West
+DC-756,NRMA DC charger 756,-34.63954159,143.5647087,regional,2,50.0,756,280,"89 Market St, Balranald, 2715",NRMA,"CCS (Type 2), CHAdeMO",Murray
+DC-757,BP DC charger 757,-33.98851456,150.8593694,urban,4,150.0,757,429,"89 Williamson Rd, Sydney, 2565",BP,Not recorded,Sydney - Outer South West
+DC-759,Chargefox DC charger 759,-33.90701506,151.213019,urban,3,165.0,759,621,"895 South Dowling St, Sydney, 2017",Chargefox,CCS (Type 2),Sydney - City and Inner South
+DC-764,Evie DC charger 764,-33.809326,151.208848,urban,4,50.0,764,1077,"9 Eastern Valley Way, Northbridge NSW 2063",Evie,"CCS (Type 2), CHAdeMO",Sydney - North Sydney and Hornsby
+DC-765,Ampol DC charger 765,-34.4151195,150.8931953,urban,2,125.0,765,353,"9 Flinders St, Wollongong North, NSW, 2500",Ampol,Not recorded,Illawarra
+DC-766,JOLT DC charger 766,-33.7136587,151.2982913,urban,2,25.0,766,1251,"9 Lagoon St, Sydney, 2101",JOLT,Not recorded,Sydney - Northern Beaches
+DC-769,Evie DC charger 769,-33.87136141,151.2644124,urban,4,75.0,769,902,"9 Vickery Ave, Sydney, 2029",Evie,Not recorded,Sydney - Eastern Suburbs
+DC-772,Evie DC charger 772,-33.89264569,151.2481672,urban,4,75.0,772,720,"91 Spring St, Sydney, 2022",Evie,"CCS (Type 2), CHAdeMO",Sydney - Eastern Suburbs
+DC-774,Ampol DC charger 774,-33.6828871,151.0284517,urban,2,125.0,774,1289,"917-923 Old Northern Rd, Dural, NSW, 2158",Ampol,Not recorded,Sydney - Baulkham Hills and Hawkesbury
+DC-775,Evie Networks,-33.9242319,151.2266791,urban,2,50.0,775,535,"92 Houston Rd, Kingsford NSW 2032, Australia",Evie,Not recorded,Sydney - Eastern Suburbs
+DC-777,Evie DC charger 777,-34.494604,150.795725,urban,4,50.0,777,320,"93 Byamee St, Dapto NSW 2530",Evie,"CCS (Type 2), CHAdeMO",Illawarra
+DC-778,ChargeHub DC charger 778,-35.3576507,150.4733804,regional,2,25.0,778,143,"93 Princes Hwy, Ulladulla, 2539",ChargeHub,Not recorded,Southern Highlands and Shoalhaven
+DC-779,Evie DC charger 779,-33.60191393,151.0082442,urban,4,75.0,779,1313,"930 Old Northern Rd, Glenorie NSW 2157",Evie,Not recorded,Sydney - Baulkham Hills and Hawkesbury
+DC-783,Evie DC charger 783,-33.931975,151.030127,urban,4,50.0,783,508,"9-49 Chapel Rd, Bankstown NSW 2200",Evie,"CCS (Type 2), CHAdeMO",Sydney - Inner South West
+DC-785,Chargefox DC charger 785,-34.29922127,146.0782252,regional,2,50.0,785,377,"96 Mackay Ave, Yoogali, 2680",Chargefox,CCS (Type 2),Riverina
+DC-787,Chargefox DC charger 787,-28.6372513,153.5806587,regional,1,80.0,787,1903,"96-100 Centennial Cct, Byron Bay, 2481",Chargefox,Not recorded,Richmond - Tweed
+DC-791,Chargefox DC charger 791,-33.91910615,151.2547838,urban,2,42.0,791,559,"97R Brook St, Sydney, 2034",Chargefox,Not recorded,Sydney - Eastern Suburbs
+DC-792,Ampol DC charger 792,-33.7878745,150.9946557,urban,2,125.0,792,1124,"98-100 Windsor Rd Cnr Lombard Rd, Northmead, NSW, 2152",Ampol,Not recorded,Sydney - Parramatta
+DC-801,Exploren DC charger 801,-33.79641046,151.1836096,urban,2,50.0,801,1105,"Anderson St, Sydney, 2067",Exploren,Not recorded,Sydney - North Sydney and Hornsby
+DC-804,BP DC charger 804,-33.83197602,151.2373874,urban,2,75.0,804,1007,"Avenue Rd, Sydney, 2088",BP,Not recorded,Sydney - North Sydney and Hornsby
+DC-805,Tesla DC charger 805,-34.80794299,150.637044,regional,12,130.0,805,250,"B640 Princes Hwy, Berry, 2535",Tesla,CCS (Type 2),Southern Highlands and Shoalhaven
+DC-810,Exploren DC charger 810,-34.36218023,150.907982,urban,2,120.0,810,366,"Bellambi Ln, Wollongong, 2518",Exploren,Not recorded,Illawarra
+DC-811,JOLT DC charger 811,-33.623906,151.151802,urban,1,25.0,811,1310,"Berowra Railway Station, Pacific Highway, Berowra, New South Wales 2081, Australia",JOLT,Not recorded,Sydney - North Sydney and Hornsby
+DC-815,Tesla DC charger 815,-33.31010015,151.4206827,urban,12,130.0,815,1391,"Bryant Dr, Central Coast, 2259",Tesla,CCS (Type 2),Central Coast
+DC-817,Chargefox DC charger 817,-33.97296101,151.2365656,urban,2,40.0,817,438,"Bunnerong Rd, Sydney, 2036",Chargefox,"CCS (Type 2), CHAdeMO",Sydney - Eastern Suburbs
+DC-819,Evie DC charger 819,-34.0397301,150.7385139,urban,4,150.0,819,409,"Camden Valley Way &, Somerset Ave, Narellan NSW 2567",Evie,Not recorded,Sydney - Outer South West
+DC-821,NRMA DC charger 821,-33.28142647,149.1027898,regional,2,50.0,821,1410,"Car Park behind the Civic Centre, Orange, 2800",NRMA,"CCS (Type 2), CHAdeMO",Central West
+DC-822,NRMA DC charger 822,-35.1086448,147.3732036,regional,2,75.0,822,199,"Car park, 51 Evans St (Victoria Park), Inverell, NSW 2360, Australia",NRMA,"CCS (Type 2), CHAdeMO",Riverina
+DC-823,NRMA DC charger 823,-30.9827002,151.5928644,regional,2,50.0,823,1770,"Car park, Little Hoskins St, Temora, NSW 2666",NRMA,"CCS (Type 2), CHAdeMO",New England and North West
+DC-825,Ampol DC charger 825,-33.74298103,150.69296,urban,2,150.0,825,1200,"Castlereagh Rd, Sydney, 2750",Ampol,"CCS (Type 2), CHAdeMO",Sydney - Outer West and Blue Mountains
+DC-826,Ampol DC charger 826,-33.89561066,151.1961411,urban,6,150.0,826,692,"Central Ave 2, Sydney, 2015",Ampol,"CCS (Type 2), CHAdeMO, Type 2 (Socket Only)",Sydney - City and Inner South
+DC-832,Ampol DC charger 832,-33.7463077,150.7413197,urban,2,125.0,832,1194,"Cnr Dunheved Rd & Henry Lawson Dr, Werrington, NSW, 2747",Ampol,Not recorded,Sydney - Outer West and Blue Mountains
+DC-833,Evie DC charger 833,-33.69514919,150.8213664,urban,4,150.0,833,1280,"Cnr Elara Bvd &, Northbourne Dr, Sydney, 2765",Evie,Not recorded,Sydney - Blacktown
+DC-834,Evie DC charger 834,-33.776893,151.122247,urban,4,50.0,834,1140,"Cnr Herring & Waterloo Rd, North Ryde NSW 2113",Evie,"CCS (Type 2), CHAdeMO",Sydney - Ryde
+DC-835,Tesla DC charger 835,-33.77721726,151.1208809,urban,20,130.0,835,1139,"Cnr Herring Rd & Waterloo Rd, Sydney, 2113",Tesla,CCS (Type 2),Sydney - Ryde
+DC-836,Evie DC charger 836,-33.82301829,151.2093468,urban,4,75.0,836,1030,"Cnr Miller & Amherst St, Cammeray NSW 2062",Evie,Not recorded,Sydney - North Sydney and Hornsby
+DC-837,Chargefox DC charger 837,-33.90722527,151.2647708,urban,2,50.0,837,617,"Cnr Trafalgar St & Pembroke St, Sydney, 2024",Chargefox,Not recorded,Sydney - Eastern Suburbs
+DC-839,NRMA DC charger 839,-36.415952,148.6198038,regional,4,50.0,839,40,"Corner of Snowy River Avenue and Kalkite St, Jindabyne, 2627",NRMA,"CCS (Type 2), CHAdeMO",Capital Region
+DC-841,JOLT DC charger 841,-34.05771,151.151975,urban,1,25.0,841,404,"Cronulla Railway Station, Tonkin Street, Cronulla, New South Wales 2230, Australia",JOLT,Not recorded,Sydney - Sutherland
+DC-843,NRMA DC charger 843,-33.13720725,148.1726176,regional,2,75.0,843,1429,"Dalton St, Parkes, 2870",NRMA,"CCS (Type 2), CHAdeMO",Central West
+DC-850,Evie DC charger 850,-33.88851356,151.2376316,urban,2,75.0,850,752,"Dorhauer Ln, Sydney, 2025",Evie,"CCS (Type 2), CHAdeMO",Sydney - Eastern Suburbs
+DC-852,NRMA DC charger 852,-33.48123828,150.1588018,regional,4,180.0,852,1331,"Eskbank St, Lithgow, 2790",NRMA,Not recorded,Central West
+DC-853,Tesla DC charger 853,-28.74953958,153.5347227,regional,12,130.0,853,1888,"f 419 Hinterland Wy, Knockrow , 2479",Tesla,CCS (Type 2),Richmond - Tweed
+DC-856,Evie DC charger 856,-33.96116721,151.2488509,urban,2,75.0,856,453,"Franklin St, Sydney, 2036",Evie,Not recorded,Sydney - Eastern Suburbs
+DC-858,JOLT DC charger 858,-33.92049354,151.1907497,urban,2,25.0,858,550,"Gardeners Rd, Sydney, 2020",JOLT,Not recorded,Sydney - City and Inner South
+DC-859,JOLT DC charger 859,-33.92059364,151.1914745,urban,2,25.0,859,549,"Gardeners Rd, Sydney, 2020",JOLT,Not recorded,Sydney - City and Inner South
+DC-861,NRMA DC charger 861,-36.67324729,149.843047,regional,2,50.0,861,24,"Gipps St, Bega, 2550",NRMA,CCS (Type 2),Capital Region
+DC-867,Chargefox DC charger 867,-34.58859964,150.8661131,urban,2,350.0,867,286,"Harbour Boulevard, Shell Cove, 2529",Chargefox,"CCS (Type 2), CHAdeMO",Illawarra
+DC-868,BP DC charger 868,-33.81961366,151.0213463,urban,4,150.0,868,1039,"Hassall St, Sydney, 2142",BP,CCS (Type 2),Sydney - Parramatta
+DC-869,BP DC charger 869,-33.81968873,151.0213023,urban,4,150.0,869,1038,"Hassall Street & James Rouse Drive, Sydney, 2142",BP,CCS (Type 2),Sydney - Parramatta
+DC-870,NRMA DC charger 870,-31.4561542,152.7327227,regional,4,60.0,870,1731,"Hastings St, Wauchope, 2446",NRMA,Not recorded,Mid North Coast
+DC-877,Exploren DC charger 877,-34.02030235,150.7634565,urban,4,150.0,877,421,"Holborn Ct, Sydney, 2557",Exploren,Not recorded,Sydney - South West
+DC-879,Chargefox DC charger 879,-34.40008513,150.8996306,urban,3,180.0,879,362,"Innovation Way, Wollongong, 2500",Chargefox,"CCS (Type 2), Type I (AS 3112)",Illawarra
+DC-881,BP DC charger 881,-33.68997402,151.1061692,urban,2,75.0,881,1284,"Jersey St, Sydney, 2077",BP,Not recorded,Sydney - North Sydney and Hornsby
+DC-883,BP DC charger 883,-32.81193998,151.6394685,urban,2,75.0,883,1529,"John Renshaw Dr, Beresfield, 2322",BP,Not recorded,Newcastle and Lake Macquarie
+DC-884,NRMA DC charger 884,-31.0903554,150.9274134,regional,2,50.0,884,1765,"Kable Ave, Tamworth, 2340",NRMA,Not recorded,New England and North West
+DC-885,NRMA DC charger 885,-36.08379184,146.9148338,regional,2,50.0,885,61,"Kiewa St, Albury, 2640",NRMA,Not recorded,Murray
+DC-887,NRMA DC charger 887,-31.557857,143.3855021,regional,2,50.0,887,1724,"Kintore Headframe Car Park, 51 Bromide St, Broken Hill, NSW 2880, Australia",NRMA,"CCS (Type 2), CHAdeMO",Far West and Orana
+DC-889,Exploren DC charger 889,-34.0278569,151.1217848,urban,2,50.0,889,419,"Koonya Cct, Sydney, 2229",Exploren,Not recorded,Sydney - Sutherland
+DC-891,Engie DC charger 891,-33.2445959,151.498974,urban,2,150.0,891,1417,"Lake Haven Dr, Lake Haven NSW 2263",Engie,Not recorded,Central Coast
+DC-894,Chargefox DC charger 894,-35.7735596,148.0094114,regional,2,100.0,894,103,"Lauder St, Tumbarumba, 2653",Chargefox,Not recorded,Riverina
+DC-899,Ampol DC charger 899,-33.80214519,150.8802132,urban,10,400.0,899,1094,"M4 Motorway Westbound, Sydney, 2766",Ampol,Not recorded,Sydney - Blacktown
+DC-910,NRMA DC charger 910,-32.59368073,149.5862633,regional,2,50.0,910,1636,"Mortimer St, Mudgee, 2850",NRMA,"CCS (Type 2), CHAdeMO",Central West
+DC-915,NRMA DC charger 915,-33.84603808,151.0698058,urban,2,50.0,915,979,"Murray Rose Ave, Sydney, 2127",NRMA,"CCS (Type 2), CHAdeMO",Sydney - Parramatta
+DC-917,Ampol DC charger 917,-34.04010015,150.7435405,urban,4,150.0,917,408,"NARELLAN RD CNR MAXWELL PL, Sydney, 2567",Ampol,Not recorded,Sydney - Outer South West
+DC-918,Ampol DC charger 918,-33.92932037,150.9551001,urban,2,150.0,918,515,"Newbridge Road 216, Sydney, 2170",Ampol,Not recorded,Sydney - South West
+DC-919,Chargefox DC charger 919,-33.91649454,151.0402563,urban,4,200.0,919,570,"North Ter, Sydney, 2200",Chargefox,Not recorded,Sydney - Inner South West
+DC-921,JOLT DC charger 921,-33.981453,151.079434,urban,1,25.0,921,431,"Oatley Railway Station, Oatley Pde, Oatley, New South Wales 2223, Australia",JOLT,Not recorded,Sydney - Inner South West
+DC-924,Exploren DC charger 924,-33.42979584,149.560006,regional,2,120.0,924,1342,"Orchard Ct, Bathurst, 2795",Exploren,Not recorded,Central West
+DC-926,Ampol DC charger 926,-33.2179895,151.5103011,urban,4,125.0,926,1423,"Pacific Hwy Cnr, 13-15 Costa Ave, Charmhaven NSW 2263",Ampol,Not recorded,Central Coast
+DC-927,Chargefox DC charger 927,-30.31793098,153.0897227,regional,2,270.0,927,1809,"Pacific Hwy, Boambee, 2450",Chargefox,"CCS (Type 2), CHAdeMO",Coffs Harbour - Grafton
+DC-928,Everty DC charger 928,-33.86979084,151.1106677,urban,2,60.0,928,909,"Parramatta Rd 214, Sydney, 2134",Everty,Not recorded,Sydney - Inner West
+DC-929,JOLT DC charger 929,-33.750304,150.694089,urban,1,25.0,929,1193,"Penrith Railway Station, Jane St, Penrith, New South Wales 2750, Australia",JOLT,Not recorded,Sydney - Outer West and Blue Mountains
+DC-931,JOLT DC charger 931,-33.71376381,151.2971421,urban,2,25.0,931,1250,"Pittwater Road, Sydney, 2101",JOLT,Not recorded,Sydney - Northern Beaches
+DC-932,Evie DC charger 932,-33.82462167,151.1997668,urban,4,75.0,932,1022,"Pole Ln, Sydney, 2065",Evie,Not recorded,Sydney - North Sydney and Hornsby
+DC-934,Exploren DC charger 934,-33.76357562,151.1336246,urban,2,60.0,934,1168,"Prince of Wales Dr, Sydney, 2073",Exploren,Not recorded,Sydney - North Sydney and Hornsby
+DC-938,NRMA DC charger 938,-35.7181522,147.316019,regional,2,50.0,938,108,"Prospect St, Holbrook, 2644",NRMA,Not recorded,Murray
+DC-943,NRMA DC charger 943,-34.82342947,148.3257027,regional,2,50.0,943,246,"Riverside Dr, Jugiong, 2726",NRMA,CCS (Type 2),Capital Region
+DC-946,NRMA DC charger 946,-34.31177382,148.2950991,regional,2,50.0,946,374,"Rogan Ln, Young, 2594",NRMA,CCS (Type 2),Capital Region
+DC-947,JOLT DC charger 947,-33.782904,151.175213,urban,1,25.0,947,1133,"Rosevillle Railway Station, Hill Street, Roseville, New South Wales 2069, Australia",JOLT,Not recorded,Sydney - North Sydney and Hornsby
+DC-952,NRMA DC charger 952,-33.92382187,147.2033794,regional,2,50.0,952,538,"Shire St, West Wyalong, 2671",NRMA,"CCS (Type 2), CHAdeMO",Central West
+DC-953,Exploren DC charger 953,-32.94079384,151.7105495,urban,4,60.0,953,1471,"Shop 2140, Newcastle, 2289",Exploren,Not recorded,Newcastle and Lake Macquarie
+DC-954,NRMA DC charger 954,-32.58960965,149.5857578,regional,4,125.0,954,1640,"Short St, Mudgee, 2850",NRMA,"CCS (Type 2), CHAdeMO",Central West
+DC-955,NRMA DC charger 955,-34.8411047,148.912197,regional,4,50.0,955,243,"Skillman's Lane, Coonamble, NSW 2829, Australia",NRMA,"CCS (Type 2), CHAdeMO",Capital Region
+DC-959,NRMA DC charger 959,-29.73846351,151.7363083,regional,2,50.0,959,1837,"Sommerlad Ln, Glen Innes, 2370",NRMA,"CCS (Type 2), CHAdeMO",New England and North West
+DC-960,Everty DC charger 960,-35.12347852,147.3992282,regional,2,25.0,960,193,"Stuart St, Wagga Wagga, 2650",Everty,"CCS (Type 2), CHAdeMO",Riverina
+DC-961,Chargefox DC charger 961,-32.70138843,152.0626466,regional,2,24.0,961,1619,"Sunset Blvd, Soldiers Point, 2317",Chargefox,"CCS (Type 2), CHAdeMO",Hunter Valley exc Newcastle
+DC-968,Chargefox DC charger 968,-34.4079569,150.877135,urban,6,175.0,968,355,"University of Wollongong, Northfields Avenue, Wollongong NSW 2522, Australia",Chargefox,Not recorded,Illawarra
+DC-969,Exploren DC charger 969,-35.05693398,147.3512593,regional,2,120.0,969,209,"Valder Way, Charles Sturt University, 2678",Exploren,Not recorded,Riverina
+DC-970,NRMA DC charger 970,-35.7095526,150.173983,regional,4,75.0,970,111,"Vesper St, Batemans Bay, 2536",NRMA,"CCS (Type 2), CHAdeMO",Capital Region
+DC-972,Everty DC charger 972,-32.57698603,151.1842142,regional,2,50.0,972,1641,"Waddells Ave, Singleton, 2330",Everty,CCS (Type 2),Hunter Valley exc Newcastle
+DC-974,NRMA DC charger 974,-34.16828833,150.6109429,urban,2,50.0,974,392,"Walton Ln, Picton, 2571",NRMA,"CCS (Type 2), CHAdeMO",Sydney - Outer South West
+DC-975,Ampol DC charger 975,-33.80154859,150.886,urban,15,240.0,975,1095,"Western Motorway, Sydney, 2766",Ampol,Not recorded,Sydney - Blacktown
+DC-976,Evie DC charger 976,-33.86864269,151.1185836,urban,2,75.0,976,917,"William St, Sydney, 2046",Evie,Not recorded,Sydney - Inner West
+DC-977,NRMA DC charger 977,-32.24936341,148.6091872,regional,2,50.0,977,1685,"Wingewarra St, Dubbo, 2830",NRMA,"CCS (Type 2), CHAdeMO",Far West and Orana
+DC-980,BP DC charger 980,-33.36284489,151.4442893,urban,2,75.0,980,1374,"Wyong Rd, Central Coast, 2261",BP,"CCS (Type 2), CHAdeMO",Central Coast
+DC-1048,Tesla DC charger 1048,-33.7929122,151.2645298,urban,6,350.0,1048,1118,197-215 Condamine St Balgowlah NSW 2093 Australia,Tesla,Not recorded,Sydney - Northern Beaches
+DC-1059,University of DC charger 1059,-34.4079569,150.877135,urban,6,350.0,1059,355,"University of Wollongong, Northfields Avenue, Wollongong NSW 2522, Australia",University of,Not recorded,Illawarra
+DC-1072,Tesla DC charger 1072,-34.0722029,150.8068155,urban,12,350.0,1072,400,20-22 Camden Rd Campbelltown NSW 2560 Australia,Tesla,CCS (Type 2),Sydney - Outer South West
+DC-1083,Viva Energy A DC charger 1083,-34.0495366,150.7601125,urban,4,350.0,1083,406,"241 Waterworth Dr, Mount Annan NSW 2567, Australia",Viva Energy A,Not recorded,Sydney - Outer South West
+DC-1085,Tesla DC charger 1085,-34.4366153,150.8632982,urban,6,350.0,1085,341,"19 Princes Hwy, Figtree NSW 2525, Australia",Tesla,CCS (Type 2),Illawarra
+DC-1294,Tesla DC charger 1294,-33.9336017,151.0299345,urban,6,175.0,1294,506,"173 Canterbury Road, Bankstown NSW 2200",Tesla,CCS (Type 2),Sydney - Inner South West
+DC-1303,Tesla DC charger 1303,-34.7720602,149.6923766,regional,20,175.0,1303,254,"179-183 Hume St, Goulburn NSW 2580",Tesla,CCS (Type 2),Capital Region
+DC-1320,Tesla DC charger 1320,-35.1317745,147.3398455,regional,6,175.0,1320,189,188 Fernleigh Rd Glenfield Park NSW 2650 Australia,Tesla,CCS (Type 2),Riverina
+DC-1338,Tesla DC charger 1338,-34.2922641,146.0507015,regional,6,175.0,1338,378,2 Bridge Rd Griffith NSW 2680 Australia,Tesla,CCS (Type 2),Riverina
+DC-1341,Evie DC charger 1341,-33.9808158,151.2498636,urban,2,75.0,1341,433,"2 Coast Hospital Rd
+Little Bay NSW 2036
+Australia",Evie,Not recorded,Sydney - Eastern Suburbs
+DC-1353,Tesla DC charger 1353,-30.204973,153.1501028,regional,15,175.0,1353,1822,2 Moonee Beach Rd Moonee Beach NSW 2450 Australia,Tesla,CCS (Type 2),Coffs Harbour - Grafton
+DC-1383,Zeus Renewables DC charger 1383,-33.7177016,150.3112897,urban,4,175.0,1383,1246,"218 Katoomba St, Katoomba NSW 2780, Australia",Zeus Renewables,Not recorded,Sydney - Outer West and Blue Mountains
+DC-1399,Evie DC charger 1399,-33.833276,151.2071934,urban,4,75.0,1399,1000,"234 Miller St
+North Sydney NSW 2060
+Australia",Evie,Not recorded,Sydney - North Sydney and Hornsby
+DC-1412,Tesla DC charger 1412,-33.898174,151.2117721,urban,8,175.0,1412,675,25 Danks St Waterloo NSW 2017,Tesla,Not recorded,Sydney - City and Inner South
+DC-1426,Tesla DC charger 1426,-33.7949453,151.188291,urban,8,175.0,1426,1110,"260 Victoria Avenue, Chatswood, NSW 2067",Tesla,Not recorded,Sydney - North Sydney and Hornsby
+DC-1440,Evie DC charger 1440,-33.732342,151.1304142,urban,4,75.0,1440,1214,"2-8 Turramurra Ave
+Turramurra NSW 2074
+Australia",Evie,Not recorded,Sydney - North Sydney and Hornsby
+DC-1447,NRMA DC charger 1447,-34.5765963,142.7428195,regional,4,175.0,1447,289,"29 Perry St, Euston NSW 2737, Australia",NRMA,Not recorded,Murray
+DC-1480,Chargefox DC charger 1480,-32.90876,151.7296847,urban,2,60.0,1480,1500,"31 Moate St
+Georgetown NSW 2298
+Australia",Chargefox,Not recorded,Newcastle and Lake Macquarie
+DC-1513,Evie DC charger 1513,-31.0900932,150.9304748,regional,4,175.0,1513,1766,"374 Peel St, Tamworth NSW 2340, Australia",Evie,"CCS (Type 2), Type 2 (Socket Only)",New England and North West
+DC-1518,Tesla DC charger 1518,-33.4258966,151.3205356,urban,12,175.0,1518,1347,"392 Manns Road, West Gosford NSW 2250 Australia",Tesla,Not recorded,Central Coast
+DC-1521,Evie DC charger 1521,-33.8329216,151.1276887,urban,2,75.0,1521,1001,"3A Cowell St
+Gladesville NSW 2111
+Australia",Evie,Not recorded,Sydney - Ryde
+DC-1542,NRMA DC charger 1542,-33.9304674,150.8750193,urban,4,175.0,1542,511,"424 Hoxton Park Rd, Prestons, NSW, 2170",NRMA,Not recorded,Sydney - South West
+DC-1556,Tesla DC charger 1556,-31.9091185,152.4602815,regional,12,175.0,1556,1710,"46 Wynter St, Taree NSW 2430, Australia",Tesla,CCS (Type 2),Mid North Coast
+DC-1558,Chargefox DC charger 1558,-32.9212044,151.7479743,urban,2,60.0,1558,1493,"47-49A Cleary St
+Hamilton NSW 2303
+Australia",Chargefox,Not recorded,Newcastle and Lake Macquarie
+DC-1559,Tesla DC charger 1559,-34.9244264,148.1654233,regional,12,175.0,1559,229,477 Coolac Rd Coolac NSW 2727 Australia,Tesla,CCS (Type 2),Riverina
+DC-1562,BP DC charger 1562,-33.4082245,151.3511059,urban,6,175.0,1562,1361,"481 Pacific Hwy, Wyoming NSW 2250, Australia",BP,"CCS (Type 2), CHAdeMO",Central Coast
+DC-1616,Evie DC charger 1616,-33.9260318,151.2312658,urban,4,75.0,1616,525,"592 Anzac Pde
+Kingsford NSW 2032
+Australia",Evie,Not recorded,Sydney - Eastern Suburbs
+DC-1622,Evie DC charger 1622,-33.8227718,151.2109254,urban,4,50.0,1622,1032,"60-62 Amherst St
+Cammeray NSW 2062
+Australia",Evie,Not recorded,Sydney - North Sydney and Hornsby
+DC-1628,Tesla DC charger 1628,-36.0796606,146.9138899,regional,16,175.0,1628,69,618 Dean St Albury NSW 2640 Australia,Tesla,CCS (Type 2),Murray
+DC-1641,Evie DC charger 1641,-33.8243185,151.2002301,urban,4,75.0,1641,1027,"65 Hume St
+Crows Nest NSW 2065
+Australia",Evie,Not recorded,Sydney - North Sydney and Hornsby
+DC-1651,Tesla DC charger 1651,-34.8436036,148.9142289,regional,12,175.0,1651,240,"68 Lead St, Yass NSW 2582, Australia",Tesla,CCS (Type 2),Capital Region
+DC-1663,BP DC charger 1663,-33.8245399,151.172579,urban,4,175.0,1663,1025,"7 Northwood Rd, Longueville NSW 2066, Australia",BP,Not recorded,Sydney - North Sydney and Hornsby
+DC-1672,Tesla DC charger 1672,-34.5115082,144.8422816,regional,6,175.0,1672,309,72 Lachlan St Hay NSW 2711 Australia,Tesla,Not recorded,Murray
+DC-1682,BP DC charger 1682,-33.7601979,150.7816339,urban,4,175.0,1682,1174,"76 Glossop St, North St Marys NSW 2760, Australia",BP,Not recorded,Sydney - Outer West and Blue Mountains
+DC-1689,EVE Australia DC charger 1689,-33.8934749,151.178294,urban,2,60.0,1689,710,"8 Federation Rd
+Camperdown NSW 2050
+Australia",EVE Australia,Not recorded,Sydney - City and Inner South
+DC-1693,NRMA DC charger 1693,-33.413357,149.5853256,regional,4,175.0,1693,1359,"8 Stanley St, Bathurst, NSW, 2795, Australia",NRMA,Not recorded,Central West
+DC-1696,Chargefox DC charger 1696,-33.9729613,151.2365649,urban,2,50.0,1696,437,"801-899R Bunnerong Rd
+Chifley NSW 2036
+Australia",Chargefox,"CCS (Type 2), CHAdeMO",Sydney - Eastern Suburbs
+DC-1702,Tesla DC charger 1702,-33.2833264,149.0944601,regional,6,175.0,1702,1404,82 Summer St Orange NSW 2800 Australia,Tesla,Not recorded,Central West
+DC-1704,Tesla DC charger 1704,-30.8015492,152.8689544,regional,12,175.0,1704,1780,"8275 Pacific Hwy, New Italy NSW 2472",Tesla,Not recorded,Mid North Coast
+DC-1712,Evie DC charger 1712,-35.3595567,150.4754013,regional,4,175.0,1712,142,"85 South St, Ulladulla NSW 2539, Australia",Evie,Not recorded,Southern Highlands and Shoalhaven
+DC-1713,Evie DC charger 1713,-33.8791212,150.9776442,urban,4,175.0,1713,845,"850 Woodville Rd, Villawood 2163, NSW",Evie,Not recorded,Sydney - Parramatta
+DC-1717,Evie DC charger 1717,-33.9406054,151.2395169,urban,4,75.0,1717,496,"872 Anzac Pde, Maroubra, NSW, 2035",Evie,Not recorded,Sydney - Eastern Suburbs
+DC-1728,Evie DC charger 1728,-33.8703543,151.2642569,urban,4,75.0,1728,907,"9 Vickery Ave
+Rose Bay NSW 2029
+Australia",Evie,Not recorded,Sydney - Eastern Suburbs
+DC-1735,Tesla DC charger 1735,-33.1413775,148.1740685,regional,4,175.0,1735,1427,"9-17 Short St, Parkes NSW 2870",Tesla,Not recorded,Central West
+DC-1736,Evie DC charger 1736,-33.9427694,151.2401202,urban,2,75.0,1736,491,"924 Anzac Pde
+Maroubra NSW 2035
+Australia",Evie,Not recorded,Sydney - Eastern Suburbs
+DC-1753,Evie DC charger 1753,-33.8538342,151.1054057,urban,4,75.0,1753,963,"Brewer St
+Concord NSW 2137
+Australia",Evie,Not recorded,Sydney - Inner West
+DC-1758,NRMA DC charger 1758,-28.332159,153.5641479,regional,4,175.0,1758,1922,"Cabarita Beach Bowls and Sports Club, Cabarita Beach NSW 2488",NRMA,"CCS (Type 2), CHAdeMO, Type 2 (Socket Only)",Richmond - Tweed
+DC-1761,BP DC charger 1761,-33.8993725,150.9191077,urban,4,175.0,1761,666,"Cnr Cumberland Hwy & Cabramatta Rd W, Cabramatta NSW 2166, Australia",BP,Not recorded,Sydney - South West
+DC-1763,NRMA DC charger 1763,-31.27879984,149.2792432,regional,2,50.0,1763,1747,"Coonabarabran Visitor Cntr, Coonabarabran, 2357",NRMA,"CCS (Type 2), CHAdeMO",Far West and Orana
+DC-1764,Tesla DC charger 1764,-32.7645423,151.7425233,regional,12,175.0,1764,1562,Corner Sturgeon St & Glenelg St Raymond Terrace NSW 2324 Australia,Tesla,CCS (Type 2),Hunter Valley exc Newcastle
+DC-1765,NRMA DC charger 1765,-35.3549827,149.2329145,regional,4,175.0,1765,146,Council Car Park Lot 4 / DP251076 between 46 Lowe Street Queanbeyan NSW 2620,NRMA,Not recorded,Capital Region
+DC-1773,NRMA DC charger 1773,-33.0912006,148.8706612,regional,4,175.0,1773,1439,"Gasworks Ln, Molong, NSW, 2866, Australia",NRMA,Not recorded,Central West
+DC-1777,Evie DC charger 1777,-33.8276585,151.2423815,urban,2,75.0,1777,1011,"Gouldsbury St
+Mosman NSW 2088
+Australia",Evie,Not recorded,Sydney - North Sydney and Hornsby
+DC-1782,Tesla DC charger 1782,-33.7452292,150.6101288,urban,6,175.0,1782,1196,"Hope St, Blaxland NSW 2774, Australia",Tesla,CCS (Type 2),Sydney - Outer West and Blue Mountains
+DC-1783,Tesla DC charger 1783,-30.5132305,151.6633637,regional,4,175.0,1783,1796,"Jessie St, Armidale NSW 2350, Australia",Tesla,CCS (Type 2),New England and North West
+DC-1790,Evie DC charger 1790,-33.8696308,151.1223747,urban,4,75.0,1790,911,"Queens Rd
+Five Dock NSW 2046
+Australia",Evie,Not recorded,Sydney - Inner West
+DC-1817,Tesla DC charger 1817,-33.41901006,149.5867568,regional,12,130.0,1817,1352,"1 Kendall Ave, Bathurst , 2795",Tesla,CCS (Type 2),Central West
+DC-1818,NRMA DC charger 1818,-33.41910215,149.5867528,regional,2,50.0,1818,1351,"1 Kendall Ave, Bathurst, 2795",NRMA,CCS (Type 2),Central West
+DC-1833,BP DC charger 1833,-35.1262128,147.4209242,regional,6,175.0,1833,192,"1 Tasman Rd, Gumly Gumly NSW 2652, Australia",BP,Not recorded,Riverina
+DC-1837,Tesla DC charger 1837,-33.9132474,151.1935823,urban,6,175.0,1837,584,"1/118 Bourke Rd, Alexandria NSW 2015",Tesla,Not recorded,Sydney - City and Inner South
+DC-1852,EVE Australia DC charger 1852,-33.8803158,151.1299199,urban,2,25.0,1852,838,"105-107 Alt St
+Ashfield NSW 2131
+Australia",EVE Australia,Not recorded,Sydney - Inner West
+DC-1854,Evie DC charger 1854,-33.8272794,151.2301624,urban,4,75.0,1854,1013,"106 Parraween St
+Cremorne NSW 2090
+Australia",Evie,Not recorded,Sydney - North Sydney and Hornsby
+DC-1879,Tesla DC charger 1879,-30.3226373,149.7801888,regional,4,175.0,1879,1807,117 Tibbereena St Narrabri NSW 2390 Australia,Tesla,Not recorded,New England and North West
+DC-1893,Evie DC charger 1893,-33.9626402,151.245869,urban,4,75.0,1893,445,"1215 Anzac Pde, Matraville, NSW, 2036",Evie,Not recorded,Sydney - Eastern Suburbs
+DC-1896,BP DC charger 1896,-33.8067305,151.0708812,urban,4,175.0,1896,1081,"1233 Victoria Rd, West Ryde NSW 2114, Australia",BP,Not recorded,Sydney - Ryde
+DC-1897,BP DC charger 1897,-34.0774032,151.0112053,urban,4,175.0,1897,397,"1234 Princes Hwy, Engadine NSW 2233, Australia",BP,Not recorded,Sydney - Sutherland
+DC-1904,BP DC charger 1904,-35.3608978,145.7194667,regional,6,175.0,1904,140,"13 Southey St, Jerilderie NSW 2716, Australia",BP,Not recorded,Murray
+DC-1913,Chargefox DC charger 1913,-28.62590795,153.586978,regional,2,50.0,1913,1909,"144 Bayshore Dr, Byron Bay, 2481",Chargefox,Not recorded,Richmond - Tweed
+DC-1925,Tesla DC charger 1925,-35.7196933,150.1897432,regional,6,175.0,1925,107,"154 Beach Rd, Batemans Bay NSW 2536",Tesla,Not recorded,Capital Region
+DC-1938,Tesla DC charger 1938,-29.0565237,152.0181884,regional,4,175.0,1938,1864,"162 Rouse St, Tenterfield NSW 2372, Australia",Tesla,CCS (Type 2),New England and North West
