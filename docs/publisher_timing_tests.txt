@@ -1,0 +1,18 @@
+Publisher timing regressions, 26 October 2026
+Environment: Windows, Python 3.12; packages from requirements.txt.
+Project-relative command: python -m unittest discover -s tests -v
+
+The following is the test-runner result captured during this optimization:
+
+test_early_sleep_wake_does_not_publish_before_deadline (test_publisher_timing.PublisherTimingTests.test_early_sleep_wake_does_not_publish_before_deadline) ... ok
+test_invalid_delays_fail_before_connecting (test_publisher_timing.PublisherTimingTests.test_invalid_delays_fail_before_connecting) ... ok
+test_publish_waits_full_interval_after_each_broker_ack (test_publisher_timing.PublisherTimingTests.test_publish_waits_full_interval_after_each_broker_ack) ... Published 4 events at minimum 0.1s intervals
+ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+OK
+
+These three tests were added for the publisher pacing fix. They are distinct
+from the nine earlier tests mentioned in the original project report.

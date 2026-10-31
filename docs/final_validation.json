@@ -1,0 +1,39 @@
+{
+  "demo_20261028_180219_433455.duckdb": {
+    "events": 19496,
+    "active": 235,
+    "completed": 2015,
+    "kwh": "50821.920",
+    "rejected": 0,
+    "watermark": "2026-09-01 13:00:00+10:00",
+    "observed_stations": 432
+  },
+  "ev_stream.duckdb": {
+    "events": 46084,
+    "active": 0,
+    "completed": 5288,
+    "kwh": "133981.800",
+    "rejected": 0,
+    "watermark": "2026-09-02 01:42:38+10:00",
+    "observed_stations": 432
+  },
+  "dc3": {
+    "name": "Armidale Visitors Centre",
+    "address": "82 Marsh Street, Armidale, 2350",
+    "address_source": "ocm_reviewed_conflict"
+  },
+  "unit_tests": {
+    "passed": 12,
+    "run_seconds": 26.583,
+    "new_tests": 4
+  },
+  "popup_mqtt_validation": {
+    "events_before": 19496,
+    "events_after": 19498,
+    "meter_points_before": 5,
+    "meter_points_after": 7,
+    "popup_remained_open": true,
+    "javascript_errors": 0
+  },
+  "checkpoint_standalone_verified": true
+}

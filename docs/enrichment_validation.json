@@ -1,0 +1,100 @@
+{
+  "passed": true,
+  "devices": 432,
+  "names_before": 1,
+  "names_after": 203,
+  "names_added": 202,
+  "name_sources": {
+    "ocm": 181,
+    "osm": 21,
+    "unavailable": 229,
+    "charger": 1
+  },
+  "plug_types_before": 181,
+  "plug_types_after": 264,
+  "plug_types_added": 83,
+  "plug_type_sources": {
+    "location_plug_type": 181,
+    "osm": 83,
+    "unavailable": 168
+  },
+  "event_ids_unchanged": true,
+  "original_nonempty_fields_preserved": true,
+  "device_identity_geometry_capacity_preserved": true,
+  "metrics": {
+    "events": 6466,
+    "active": 144,
+    "completed": 560,
+    "kwh": "13926.510",
+    "rejected": 0,
+    "watermark": "2026-09-01 08:50:00+10:00",
+    "observed_stations": 432
+  },
+  "api_status": 200,
+  "examples": [
+    {
+      "station_id": "DC-1048",
+      "name": "Tesla Supercharger",
+      "name_source": "osm",
+      "plug_types": "CCS",
+      "plug_types_source": "osm",
+      "active": 2
+    },
+    {
+      "station_id": "DC-12",
+      "name": "Tesla Supercharger",
+      "name_source": "osm",
+      "plug_types": "CCS",
+      "plug_types_source": "osm",
+      "active": 0
+    },
+    {
+      "station_id": "DC-1412",
+      "name": "Waterloo Supercharger",
+      "name_source": "osm",
+      "plug_types": "CCS",
+      "plug_types_source": "osm",
+      "active": 1
+    },
+    {
+      "station_id": "DC-1518",
+      "name": "Tesla Supercharger",
+      "name_source": "osm",
+      "plug_types": "CCS",
+      "plug_types_source": "osm",
+      "active": 2
+    },
+    {
+      "station_id": "DC-1672",
+      "name": "Tesla Supercharger",
+      "name_source": "osm",
+      "plug_types": "CCS",
+      "plug_types_source": "osm",
+      "active": 1
+    },
+    {
+      "station_id": "DC-1735",
+      "name": "Parkes Supercharger",
+      "name_source": "osm",
+      "plug_types": "CCS",
+      "plug_types_source": "osm",
+      "active": 0
+    },
+    {
+      "station_id": "DC-1837",
+      "name": "Alexandria Supercharger",
+      "name_source": "osm",
+      "plug_types": "CCS",
+      "plug_types_source": "osm",
+      "active": 0
+    },
+    {
+      "station_id": "DC-1879",
+      "name": "Tesla Supercharger",
+      "name_source": "osm",
+      "plug_types": "CCS",
+      "plug_types_source": "osm",
+      "active": 0
+    }
+  ]
+}

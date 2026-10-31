@@ -1,0 +1,25 @@
+{
+  "checked_at_utc": "2026-10-29T03:28:45.715165+00:00",
+  "checks_passed": 16,
+  "checks": [
+    "open dropdown preserves pending choice across polling",
+    "dropdown choice commits all linked views",
+    "unchanged options retain their nodes after refresh",
+    "metadata changes are deferred until dropdown interaction ends",
+    "newly observed chargers are added after menu interaction",
+    "keyboard dropdown commit synchronises all views",
+    "direct map click",
+    "repeat map click",
+    "switch map marker",
+    "table row click",
+    "detail dropdown selection",
+    "price sort preserves selection",
+    "available sort preserves selection",
+    "polling preserves open popup and selection",
+    "incoming state refresh preserves selection",
+    "late previous response cannot replace current selection"
+  ],
+  "leaflet_version": "1.9.4",
+  "scope": "Vendored Leaflet event handlers and actual API response fixtures; DOM and map rendering stubbed. Native browser dropdown UI has not been automated.",
+  "source_sha256": "7e9d3978eae3b39e5e2945f68a939ae2f4d4728d3010eef6fe2aea3bdc17b8b8"
+}

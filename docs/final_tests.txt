@@ -1,0 +1,4 @@
+2026-10-28 Windows Python 3.12.14
+Ran 12 tests in 26.583s: OK
+5 enrichment + 3 publisher pacing + 4 storage/conflict tests.
+Browser MQTT: open popup meter points 5 -> 7 after two valid messages.

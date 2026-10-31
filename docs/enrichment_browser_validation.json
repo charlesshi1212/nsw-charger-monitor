@@ -1,0 +1,14 @@
+{
+  "selected_osm_station": "DC-1048",
+  "name": "Tesla Supercharger",
+  "plug_types": "CCS",
+  "name_source": "OpenStreetMap (location match)",
+  "plug_types_source": "OpenStreetMap (location match)",
+  "ocm_station": "DC-1072",
+  "ocm_name": "Campbelltown Supercharger",
+  "ocm_name_source": "Open Charge Map (location match)",
+  "popup_and_detail_provenance_verified": true,
+  "horizontal_overflow": false,
+  "javascript_errors_observed": 0,
+  "screenshot": "enriched_dashboard.png"
+}

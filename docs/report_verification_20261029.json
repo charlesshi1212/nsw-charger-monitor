@@ -1,0 +1,48 @@
+{
+  "checked_at_utc": "2026-10-29T03:38:54.573991+00:00",
+  "database": "database/ev_stream.duckdb",
+  "metrics": {
+    "events": 46084,
+    "active": 0,
+    "completed": 5288,
+    "kwh": "133981.800",
+    "revenue_aud": "90920.89",
+    "rejected": 0,
+    "watermark": "2026-09-02 01:42:38+10:00"
+  },
+  "event_types": {
+    "session_start": 5288,
+    "session_end": 5288,
+    "price_update": 6048,
+    "meter": 29460
+  },
+  "generated_and_received_event_ids_identical": true,
+  "a1_mapped_events": 46084,
+  "unit_tests": {
+    "passed": 12,
+    "enrichment": 5,
+    "pacing": 3,
+    "storage_and_address_conflict": 4,
+    "elapsed_seconds": 3.88
+  },
+  "selection_logic": {
+    "passed": 16,
+    "leaflet": "1.9.4",
+    "source_sha256": "7e9d3978eae3b39e5e2945f68a939ae2f4d4728d3010eef6fe2aea3bdc17b8b8",
+    "scope": "Vendored Leaflet event handlers and actual API response fixtures; DOM and map rendering stubbed. Native browser dropdown UI has not been automated.",
+    "evidence": "docs/dropdown_selection_validation_20261029.json"
+  },
+  "figure_snapshot": {
+    "source": "docs/dashboard_4000plus.png",
+    "events": 39593,
+    "completed": 4537,
+    "active": 169,
+    "kwh": "114696.2",
+    "selected_station": "DC-835",
+    "selected_station_active": 3,
+    "selected_meter_readings": 12,
+    "watermark": "2026-09-01 20:00:00+10:00",
+    "note": "Authentic retained running capture, separate from the final submitted database; screenshot pixels unchanged."
+  },
+  "timing_evidence": "docs/enriched_mqtt_validation.json"
+}
